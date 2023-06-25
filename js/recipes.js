@@ -4,7 +4,7 @@ $(document).ready(function () {
   let recipeTitle;
   let idNum;
 
-$.getJSON('./json/recipes.json', function (data) {
+$.getJSON('./EGG/json/recipes.json', function (data) {
   dataFromJSON = data;
   for (let j = 0; j < dataFromJSON.length; j++) {
   }
