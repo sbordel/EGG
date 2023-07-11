@@ -26,28 +26,6 @@
    ]
 },
  {
-   "Title": "Baba Ghanouj ",
-   "Id": 5,
-   "Type": "Condiment",
-   "OriginalURL": "https://cooking.nytimes.com/recipes/1014030-baba-ghanouj",
-   "Ingredients": [
-      "2 lbs eggplant, preferably small ",
-      "¼ cup freshly squeezed lemon juice ",
-      "¼ cup sesame tahini",
-      "1-2 tablespoons plain low-fat yogurt, as needed",
-      "2 garlic cloves, halved",
-      "Salt to taste",
-      "Extra-virgin olive oil",
-      "Chopped flat-leaf parsley"
-   ],
-   "Steps": [
-      "Preheat the oven to 425 degrees. Turn on your oven fan and roast the eggplants directly over the flame, turning often until charred and softened. Small, thin eggplants will cook through this way, but larger eggplants must be finished in the oven. Wrap in foil, and place in the hot oven for 20 minutes until thoroughly softened. ",
-      "Place the grilled eggplant in a colander in the sink, and allow to cool and drain. Peel and discard the black skins, cut off the stems, and let the eggplants sit in the colander to drain for another 15 to 30 minutes.",
-      "Puree the eggplant in a food processor fitted with the steel blade. Add the lemon juice, yogurt and tahini. In a mortar and pestle, pound the garlic to a paste with a generous pinch of salt. Add to the food processor, and blend with the eggplant. Add salt to taste.",
-      "Mound the puree in a bowl or on a platter, and drizzle with olive oil. Sprinkle with parsley. Serve with pita bread."
-   ]
-},
- {
    "Title": "Banana Chocolate Chip Muffin (V)",
    "Id": 3,
    "Type": "Sweets",
@@ -71,62 +49,6 @@
       "Divide the batter evenly between the 6 muffin cups. Sprinkle the tops with extra chocolate",
       "Bake the muffins for 20 to 22 minutes or until the tops spring back when lightly pressed.",
       "Remove from the oven and allow to cool in the pan for 5-10 minutes then remove from the pan and allow to cool completely on a wire rack."
-   ]
-},
- {
-   "Title": "Beluga Lentil Salad (V)",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "http://shemeshkitchen.com/vegan-beluga-lentil-salad/",
-   "Ingredients": [
-      "250 g beluga lentils",
-      "1 garlic clove, crushed",
-      "1 pinch salt",
-      "100 g tahini",
-      "30 g amba hot mango pickle",
-      "10 g lemon juice",
-      "80 g water",
-      "1 tsp turmeric powder",
-      "¼ tbsp cumin powder",
-      "3-4 small cucumbers, halved and sliced",
-      "10-12 cherry tomatoes, quartered",
-      "2-3 green chilies, optional",
-      "3 sprigs of mint, sliced",
-      "2 handful parsley, chopped",
-      "¼ tsp cumin powder",
-      "juice of 1 lemon",
-      "olive oil",
-      "salt"
-   ],
-   "Steps": [
-      "First, place the lentils and garlic in a pot and cover with a lot of cold water. Bring to a boil, then reduce heat to minimum. After 18 minutes, add salt, let cook for 2 more minutes, then strain. Discard the garlic.",
-      "Make the mango sauce by pureeing the tahini, amba mango pickle, lemon juice, water, turmeric and cumin together till you reach a smooth thick consistency. Put aside. ",
-      "Mix the vegetable and herbs together for the salad.",
-      "When the lentils have chilled slightly, mix with the sauce, then top with the salad."
-   ]
-},
- {
-   "Title": "Blood Orange Tiramisù",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "https://www.instagram.com/p/CodstBJJ84y/",
-   "Ingredients": [
-      "2 ¼ cups mascarpone",
-      "⅓ cup heavy cream",
-      "2 tbsp Cointreau or Gran Mariner",
-      "5 eggs, separated",
-      "1 tsp vanilla extract",
-      "½ cup granulated sugar",
-      "48 ladyfingers",
-      "1 ½ cups fresh squeezed blood orange juice, strained",
-      "Orange zest, for dusting"
-   ],
-   "Steps": [
-      "In a stand mixer, combine mascarpone, cream, liquor, egg yolks, vanilla and sugar. Using a whisk attachment, mix on medium until soft peaks form. If you drag your finger through it, it should leave a slight trail. Do not over mix.",
-      "Move the mascarpone mixture into another bowl. Wash out the stand mixer bowl and the whisk attachment. Then whisk your egg whites until stable peaks have formed. Be very careful to not over mix.",
-      "Carefully fold the egg whites into the mascarpone mixture. Third by third.",
-      "Using a large 9x13 baking dish, coat the bottom in the mascarpone cream. Then dip each ladyfinger into the blood orange purée and line the bottom of the dish. Once the bottom is covered, spread half of the mascarpone cream. Repeat with the ladyfingers and the other half of cream.",
-      "Chill for a minimum of 8 hours, but best when chilled overnight. Top with orange zest and serve!"
    ]
 },
  {
@@ -158,7 +80,7 @@
  {
    "Title": "Butter Beans & Grilled artichoke hearts with Ricotta",
    "Id": 2,
-   "Type": "Sides",
+   "Type": "Appetizer/Side",
    "OriginalURL": "https://www.instagram.com/p/CsQknFhoVw5/",
    "Ingredients": [
       "400g artichoke hearts, drained and sliced in half",
@@ -181,7 +103,7 @@
  {
    "Title": "Cabbage Pie (V)",
    "Id": 2,
-   "Type": "Sides",
+   "Type": "Appetizer/Side",
    "OriginalURL": "https://www.instagram.com/p/CaDMmcCuLO4/",
    "Ingredients": [
       "1 head of cabbage (approx. 1 3/4 lbs)",
@@ -208,7 +130,7 @@
  {
    "Title": "Caponata (V)",
    "Id": 2,
-   "Type": "Sides",
+   "Type": "Appetizer/Side",
    "OriginalURL": "https://www.instagram.com/p/CsHL5xgI7KS/",
    "Ingredients": [
       "1 globe aubergine ",
@@ -290,36 +212,6 @@
    ]
 },
  {
-   "Title": "Creamy Pumpkin Fettuccine",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.instagram.com/p/CkQTot3SAgh/",
-   "Ingredients": [
-      "½ medium sized pumpkin",
-      "1 head of garlic",
-      "2-3 big sprigs of rosemary",
-      "4 tbsp olive oil + more for roasting the pumpkin",
-      "1 medium onion, finely chopped",
-      "2 tbsp tomato paste",
-      "½ cup whole milk",
-      "50 g cream cheese",
-      "50 g grated parmesan cheese",
-      "pasta water",
-      "salt and freshly cracked black pepper",
-      "fettuccine pasta",
-      "chili flakes",
-      "butter"
-   ],
-   "Steps": [
-      "Preheat the oven to 210C. Roughly chop the pumpkin and slice the garlic head horizontally in half. Place on a roasting tray. Pour a few lashings of olive oil and add 2 sprigs of rosemary. Roast for 40-50 mins until the pumpkin is tender. Mash the pumpkin and set the garlic head aside aside. ",
-      "In a non stick pan, heat the oil and fry the onion with a rosemary sprig until golden and fragrant. Squeeze out the roasted garlic from its peel, mash and add to the pan.",
-      "Remove the rosemary sprig and add the tomato paste. Sauté until cooked well.",
-      "Add the mashed roasted pumpkin and fry for a couple minutes. Add the milk and cheeses and stir to combine. The sauce should be pretty thick and creamy.",
-      "Put the pasta on boil. Add some of the pasta water to the sauce to thin it out the sauce. Add salt and pepper to taste.",
-      "For the chilli butter, I just heat the butter and stirred in the paprika. Serve on pasta. "
-   ]
-},
- {
    "Title": "Easiest Focaccia Bread Recipe",
    "Id": 4,
    "Type": "Bread",
@@ -340,32 +232,6 @@
       "Pour a tablespoon of oil into the center of each pan or 2 tablespoons of oil. Using two forks, deflate the dough by releasing it from the sides of the bowl and pulling it toward the center. Rotate the bowl in quarter turns as you deflate, turning the mass into a rough ball. Use the forks to split the dough into two equal pieces (or do not split if using the 9×13-inch pan). Place one piece into one of the prepared pans. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining piece. Let the dough balls rest for 3 to 4 hours depending on the temperature of your kitchen (Note: no need to cover for this room temperature rise).",
       "Set a rack in the middle of the oven and preheat it to 425°F. If using the rosemary, sprinkle it over the dough. Pour a tablespoon of oil over each round of dough (or two tablespoons if using a 9×13-inch pan). Rub your hands lightly in the oil to coat, then, using all of your fingers, press straight down to create deep dimples. If necessary, gently stretch the dough as you dimple to allow the dough to fill the pan. Sprinkle with flaky sea salt all over.",
       "Transfer the pans or pan to the oven and bake for 25 to 30 minutes, until the underside is golden and crisp. Remove the pans or pan from the oven and transfer the focaccia to a \ncooling rack. Let it cool for 10 minutes before cutting and serving."
-   ]
-},
- {
-   "Title": "Eggplant Tarte Tatin With Feta",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "http://shemeshkitchen.com/eggplant-tarte-tatin-with-feta/",
-   "Ingredients": [
-      "2 globe aubergines, sliced into 2 cm thick slices",
-      "250 g feta",
-      "3 sprigs oregano",
-      "70 g olive oil",
-      "100 g cream cheese",
-      "2 eggs",
-      "3 tbsp honey",
-      "1-2 dry chilis, crushed",
-      "6-7 filo pastry leaves",
-      "salt"
-   ],
-   "Steps": [
-      "If using baby eggplants, cut off a tiny bit of skin on either side of the eggplants. That will allow them to cook more evenly. Remove the stalk and cut them in half lengthwise. Salt the eggplants generously and let them steep for 20 minutes.",
-      "Crumble your feta, add oregano leaves, about 20 g of olive oil, cream cheese, and eggs, and whisk well. Little lumps are ok, but the mixture should be creamy and spreadable.",
-      "Pat dry the eggplants with paper towels. Heat about half of the remaining olive oil in a large pan. Sauté the eggplants on both sides until well brown and softened, about 3 minutes per side. Remove from the pan and set aside. In a small saucepan, heat 3 tbsp of water. Add the honey and bring to a simmer. Crumble in the chili, add a bit of salt, bring to a quick boil, and remove from the heat.",
-      "In a small saucepan, heat 3 tbsp of water. Add the honey and bring to a simmer. Crumble in the chili, add a bit of salt, bring to a quick boil, and remove from the heat.",
-      "Preheat the oven to 200℃. In an oven-proof pan, add about a third of the honey syrup. Arrange the eggplants in an even layer to fill the bottom of the entire pan. Pour over the rest of the honey syrup. Spread the feta mix in an even layer on top of the eggplants. Add 1 leaf of filo pastry, brush gently with olive oil, then add the next leaf. Brush with oil and repeat 6 or 7 times, brushing the top layer.",
-      "Bake for about 20-25 minutes, until the pastry is golden brown and the syrup and cheese are bubbling and caramelized on the sides. Allow to cool for 10 minutes, then flip to a serving plate. Sprinkle with some oregano leaves and salt."
    ]
 },
  {
@@ -487,25 +353,6 @@
    ]
 },
  {
-   "Title": "Malabi With Rhubarb And Strawberries (V)",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "http://shemeshkitchen.com/vegan-malabi-with-rhubarb-and-strawberries-2/#recipe",
-   "Ingredients": [
-      "400 g coconut milk",
-      "40 g cornstarch",
-      "40 g sugar",
-      "20 g orange blossom water or rosewater",
-      "300 g rhubarb, roughly chopped ",
-      "80 g sugar"
-   ],
-   "Steps": [
-      "Whisk all together, place in a saucepan, and bring to a boil, constantly whisking (more once it starts getting hotter. Make sure to scrape the bottom of the pan to avoid lumps). Put in small bowls or ramekins and cover with foil (make sure the foil touches the malabi). Let cool and harden in the fridge for about an hour.",
-      "For the compote, simmer rhubarb and sugar together in a covered pot for about 15 minutes, until the rhubarb is completely softened and breaks apart. Let cool before serving.",
-      "To serve, scrape around the edges of the ramekins to loosen the malabi mass and turn each of them onto a plate. You might have to wobble and tap the ramekin if the malabi won’t come out. Serve with compote. "
-   ]
-},
- {
    "Title": "Matcha Lemon Cranberry Muffins (V)",
    "Id": 3,
    "Type": "Sweets",
@@ -535,7 +382,7 @@
  {
    "Title": "Mediterranean Roasted Artichoke (V)",
    "Id": 2,
-   "Type": "Sides",
+   "Type": "Appetizer/Side",
    "OriginalURL": "https://www.themediterraneandish.com/mediterranean-roasted-artichoke-recipe/",
    "Ingredients": [
       "3 large globe artichokes",
@@ -559,71 +406,6 @@
       "Carefully open the foil pouches using tongs. Remove the roasted garlic from the center of artichoke, and close the foils back until ready to serve. Let garlic cool.",
       "In a small food processor, add the roasted garlic with the remaining vinaigrette ingredients. Pulse until smooth.",
       "Remove the artichokes from foil. Arrange on a serving platter, generously drizzle the roasted garlic-dill vinaigrette. Top with shallots, capers and crumbled feta cheese."
-   ]
-},
- {
-   "Title": "Mini Spinach Crêpes With Corn",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "http://shemeshkitchen.com/mini-spinach-crepes-with-corn-topping/#recipe",
-   "Ingredients": [
-      "1 tbsp olive oil",
-      "1 garlic clove, finely sliced",
-      "500 g fresh spinach",
-      "100 g flour",
-      "1 egg",
-      "50-100 g water",
-      "2 ice cubes",
-      "½ lemon zest",
-      "½ tsp cumin seeds",
-      "2 tbsp neutral oil",
-      "2 ears of corn",
-      "½ tsp smoked paprika powder",
-      "2 small red onions",
-      "2 handfuls of cherry tomatoes",
-      "1 red chili sliced",
-      "1 pinch of cumin",
-      "30 g tequila",
-      "100 g sour cream"
-   ],
-   "Steps": [
-      "Sauté garlic in olive oil for about one minute until fragrant. Add spinach and salt, cover, and cook until wilted, about 3 minutes.",
-      "Transfer into a blender, add ice cubes and lemon zest, and blend until smooth. Mix flour, egg, and water as needed for a runny dough in a bowl.",
-      "Heat a little oil in a pan and wipe it with a paper towel. Add a ladleful at a time of the crepe dough and spread it around a bit to make it flat. Cook for about 3 minutes on each side.",
-      "Put the corn In a pot full of boiling salt water, cover it, and let it steam for 10 minutes. Cut the kernels off.",
-      "Toast cumin seeds in a large pan until fragrant. Add oil, onions, chili, and saute for 3-4 minutes. Turn up the heat, then add corn and paprika powder. Sear for 3 minutes, then add tomatoes and salt. Add tequila and try to set the whole thing on fire. Cook for 1-3 minutes longer.",
-      "Spread sour cream on the crepes, add a couple of spoonfuls of the corn-tomato thing, and finish with fresh oregano."
-   ]
-},
- {
-   "Title": "Nectarine Gazpacho With Celery Sorbet (V)",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "http://shemeshkitchen.com/nectarine-gazpacho-with-celery-sorbet-2/#recipe",
-   "Ingredients": [
-      "1 kg nectarines",
-      "5 medium-sized tomatoes",
-      "2 small cucumbers",
-      "1 stalk celery",
-      "½ fennel",
-      "1 red onion",
-      "1 clove garlic",
-      "1 red chili",
-      "1 lemon zest and juice",
-      "2 stalks lemongrass",
-      "1 stalk rosemary",
-      "a bit of sherry vinegar",
-      "a lot of olive oil",
-      "500 g celery",
-      "1 bunch fresh mint",
-      "1 jalapeño",
-      "2 limes zest and juice",
-      "125 ml water",
-      "125 g sugar"
-   ],
-   "Steps": [
-      "For the gazpacho, chop all the veggies, lemongrass, onion, garlic, and rosemary and put them in a large bowl. Add lemon zest and lemon juice, olive oil, sherry vinegar, salt, and pepper and mix well with hands. Squeeze all the juices out of the veggies. Let sit and marinate for about 30 minutes. Blend everything until very smooth, then pass through a sieve. Let sit in the fridge for a bit, so the gazpacho is nice and cold.",
-      "For the sorbet, heat up water and sugar and let them boil until sugar is completely dissolved. Set aside and let cool completely. Add chopped celery (stalks and leaves), chopped jalapeño, lime zest, lime juice, and the cooled syrup in a food processor and mix until you get a fine pulp. Pass through a fine sieve. Keep the liquid and compost the pulp. Put the liquid in a flat container and scrape it with a fork for a granita-like consistency."
    ]
 },
  {
@@ -654,31 +436,9 @@
    ]
 },
  {
-   "Title": "Pomegranate-Chipotle BBQ Sauce (V)",
-   "Id": 5,
-   "Type": "Condiment",
-   "Ingredients": [
-      "2 cups pomegranate juice",
-      "¼ cup lemon juice",
-      "¼ cup sugar",
-      "½ cup apple cider vinegar",
-      "¼ cup chipotle peppers, chopped very fine",
-      "1 (15 oz) can tomato sauce",
-      "1 Tbsp yellow mustard",
-      "1 cup brown sugar",
-      "1 tsp salt",
-      "1 tsp onion powder",
-      "1 tsp garlic powder"
-   ],
-   "Steps": [
-      "Combine pomegranate juice, lemon juice and sugar in a saucepan over medium-high heat. Bring to a boil, reduce heat and keep at a very strong simmer, stirring occasionally, until the mixture reduces to a syrup consistency that coats your spoon. ",
-      "Add the rest of the ingredients to saucepan, bring back to a boil then reduce heat and simmer until mixture thickens to a bbq sauce consistency."
-   ]
-},
- {
    "Title": "Preserved Ingredient Cannellini Bean Salad (V)",
    "Id": 2,
-   "Type": "Sides",
+   "Type": "Appetizer/Side",
    "OriginalURL": "https://www.instagram.com/p/Cm9cWVUocxP/",
    "Ingredients": [
       "1 15 oz can of cannellini beans ",
@@ -694,24 +454,6 @@
       "2 tbsp capers",
       "1 cup panko breadcrumbs ",
       "1 cup pistachio slivers or desiccated coconut, grounded"
-   ]
-},
- {
-   "Title": "Puff Pastry ",
-   "Id": 7,
-   "Type": "Misc",
-   "OriginalURL": "https://www.instagram.com/p/Cj8FsA-DTzF/",
-   "Ingredients": [
-      "226 g cold unsalted butter, cut into \nsmall cubes",
-      "240 g all-purpose flour ",
-      "120-150 ml cold water ",
-      "1 tsp kosher salt "
-   ],
-   "Steps": [
-      "In a large mixing bowl, whisk together flour and salt. Toss the cold butter into the flour mixture, pressing the butter cubes into the flour until the mixture looks like wet sand. ",
-      "Add 6 tbsp of water over the mixture and fold the mixture together until it starts to form together. Continue adding water 1 tbsp at a time until a loose and crumbly dough forms. Gently fold the dough a few times until a cohesive mass is formed. ",
-      "Shape into a ½-inch thick square and wrap tightly in plastic wrap. Chill for 1 hour. ",
-      "On a lightly floured surface, roll the chilled dough into a 1/2-inch-thick rectangle. Be sure to keep the dough cold. If at any point the dough sticks or gets soft, put it back in the refrigerator. Fold the dough in thirds like a letter. Turn 90 degrees. Repeat rolling, folding, and rotating 3 more times. Fold back into thirds, wrap tightly, then chill for at least 2 hours or up to 2 days, or placed in a freezer bag and freeze for up to 2 months."
    ]
 },
  {
@@ -763,85 +505,6 @@
       "Tip in the 300g red lentils and 750ml of vegetable stock. Bring the pan to the boil, then turn down to a simmer, cover and cook\nfor around 13 – 15 minutes until the lentils are cooked and the stock has reduced to a thick sauce.",
       "Remove the pan from the heat and season to taste. Then stir in the 150g spinach and 30g chopped coriander. Stir the spinach and coriander until they have wilted sufficiently.",
       "Serve the curry immediately."
-   ]
-},
- {
-   "Title": "Sage & Maple Hasselback Butternut Squash ",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "https://www.instagram.com/p/Cjkm0neLXYM/",
-   "Ingredients": [
-      "1 Hasselback Butternut Squash",
-      "122 g butter ",
-      "2 sprigs of sage",
-      "¼ cup maple syrup",
-      "2 tbsp apple cider vinegar",
-      "1 tsp chilli powder",
-      "½ chopped shallot",
-      "1 tsp yellow mustard powder",
-      "1 tsp curry powder",
-      "2 tsp lemon juice",
-      "100 ml cream",
-      "chopped parsley",
-      "thyme sprigs"
-   ],
-   "Steps": [
-      "Peeled and slit the squash lengthwise, removing the seeds and cleaning the cavity. Rub it with olive oil and season with salt and pepper. Bake it for 15 minutes at 200C.",
-      "To make the maple glaze, melt 3 tbsp of the butter in a pan, then add the sage. Once it sizzles,  add the maple syrup and the apple cider vinegar and some chilli powder. once this thickened to glaze consistency I removed it from the heat.",
-      "Take the squash out and let it cool a bit. Place two chopsticks along the length of the squash on either side and used a very sharp knife to make the little cuts breadthwise. ",
-      "Brush it with the maple glaze, a pour the rest of the glaze freely before putting it back in the oven for about 30 mins at 210C. Remove the squash from the oven every 10 minutes and baste it with the glaze in the pan. ",
-      "In a non stick pan, put the rest of the butter, the chopped shallot, yellow mustard powder, curry powder and salt and pepper. Cook this on low heat until the butter foamed and then clarified. Add chopped parsley and thyme sprigs. Then, add the lemon juice and the cream."
-   ]
-},
- {
-   "Title": "Savory Delicata Squash and Cream Cheese Galette",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.instagram.com/p/Cj8FsA-DTzF/",
-   "Ingredients": [
-      "1 puff pastry recipe (recipe in MISC section)",
-      "2 small delicata squash, sliced thinly",
-      "one small onion, sliced thinly",
-      "1 tbsp olive oil",
-      "1 tsp garlic powder",
-      "1 tsp onion powder",
-      "1 tsp paprika",
-      "½ tsp kosher salt",
-      "250 g softened cream cheese",
-      "⅓ cup chopped herbs of choice",
-      "1 chipotle",
-      "½ tsp kosher salt"
-   ],
-   "Steps": [
-      "Preheat oven to 400 degrees. On a large sheet pan, coat sliced squash and onion with olive oil, garlic powder, onion powder, paprika, and salt. Roast for 20-25 minutes until cooked through. ",
-      "While veggies are cooking, mix together cream cheese, chopped herbs, chipotle, and salt. Set aside. ",
-      "While veggies are cooling, prep you pastry as you would for a galette. Spread 1/2 cup cream cheese mixture on the pastry, and then top with cooled roasted veggies, mounding in the center. Fold the pastry towards the middle, and place in the refrigerator for 30 minutes before baking.",
-      "Bake at 400 degrees for 35-40 minutes, until golden brown."
-   ]
-},
- {
-   "Title": "Shaved Zucchini Salad With Goat Cheese, Apricots, and Za’atar",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "http://shemeshkitchen.com/shaved-zucchini-salad-with-goat-cheese-apricots-and-zaatar/#recipe",
-   "Ingredients": [
-      "2 green zucchini, shaved lengthwise",
-      "1 yellow zucchini, shaved lengthwise",
-      "2-3 apricots, sliced",
-      "2 dried apricots, diced small",
-      "a few mint leaves",
-      "a pinch of za'atar",
-      "60 g soft goat cheese ",
-      "15 g Dijon mustard",
-      "20 g whole grain mustard",
-      "50 g lemon juice and zest, about 2 lemons",
-      "90 g olive oil",
-      "salt"
-   ],
-   "Steps": [
-      "Blitz together the mustard, lemon, 30g of the goat cheese, salt, and olive oil to a smooth creamy dressing.",
-      "Carefully dress the zucchini and the dried apricot, let it marinate 5 minutes.",
-      "Arrange on a plate: add apricot slices, mint leaves. Crumble 30g of goat cheese. Finish with a sprinkle of za'atar."
    ]
 },
  {
