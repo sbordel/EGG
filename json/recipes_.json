@@ -438,6 +438,31 @@
    ]
 },
  {
+   "Title": "Garam Masala",
+   "Id": 7,
+   "Type": "Misc",
+   "OriginalURL": "https://www.daringgourmet.com/garam-masala/#recipe",
+   "Ingredients": [
+      "4 Tbsp coriander seeds",
+      "4 tsp cumin seeds",
+      "1 tsp fennel seeds",
+      "1 tsp black peppercorns",
+      "1 tsp green cardamom seeds",
+      "1/2 tsp black cardamom seeds",
+      "1 stick cinnamon , about 3 inches",
+      "2 star anise",
+      "8 whole cloves",
+      "1/2 tsp freshly ground nutmeg",
+      "1/4 tsp ground mace (optional)",
+      "2 dried curry leaves or one large bay leaf"
+   ],
+   "Steps": [
+      "Place the whole spices (reserving the ground nutmeg and mace) in a dry skillet and toast them over medium-high heat for several minutes, stirring frequently, until the spices are very fragrant and the lighter spices have become deeper golden in color. Be careful not toscorch the spices or they will become very bitter.",
+      "Transfer the toasted spices to a bowl and let them cool completely.Place the cooled spices in a coffee grinder or a blender along with the ground nutmeg and mace. It is easiest to grind the cinnamon if you break it into pieces.",
+      "Grind the spices until you get a fine powder. Transfer the garam masala to an airtight jar and store in a dark place. This makes roughly 1/2 cup of garam masala."
+   ]
+},
+ {
    "Title": "Green Sauce Pasta (V)",
    "Id": 1,
    "Type": "Main",
@@ -651,6 +676,65 @@
       "Add the milk and the vanilla and whisk until smooth. Then, add in the buckwheat flour, oat flour, and baking soda and mix together until fully combined. Fold in the chocolate chips.",
       "Scoop and roll dough into balls about 2 tablespoons in size and place about 11, evenly spaced apart on each baking sheet. ",
       "Bake in the preheated oven for 9-11 minutes, or until the cookies are puffed up. Let the cookies cool for at least 30 minutes and serve."
+   ]
+},
+ {
+   "Title": "Opera",
+   "Id": 3,
+   "Type": "Sweets",
+   "Ingredients": [
+      "4 eggs ",
+      "125 g powdered sugar",
+      "125 g almond flour",
+      "20 g butter, melted",
+      "3 egg whites",
+      "30 g white flour",
+      "4 egg yolks",
+      "100 g powdered sugar",
+      "30 ml mineral water",
+      "160 g butter, creamed",
+      "3 Tbsp coffee extract",
+      "80 ml coffee",
+      "50 g powdered sugar",
+      "120 g dark chocolate",
+      "120 ml full fat cream",
+      "130 g dark chocolate",
+      "15 g neutral oil"
+   ]
+},
+ {
+   "Title": "Palak Paneer",
+   "Id": 1,
+   "Type": "Main",
+   "OriginalURL": "https://www.indianhealthyrecipes.com/palak-paneer-recipe-easy-paneer-recipes-step-by-step-pics/",
+   "Ingredients": [
+      "150 g paneer ",
+      "100-120 g spinach (If using mature spinach, cut stalks and stems)",
+      "2 Tbsp oil (or half oil & half butter)",
+      "2 green chilies, deseeded & chopped",
+      "90 g or 1 small onion, finely chopped",
+      "2 small tomatoes, deseeded & chopped or pureed",
+      "¾ tsp minced garlic",
+      "½ tsp minced ginger",
+      "¾ tsp salt ",
+      "8-10 cashewnuts (or 7 blanched and soaked almonds)",
+      "¾ tsp garam masala ",
+      "½ tsp dried fenugreek leaves (optional)",
+      "¼ cup water (to blend spinach)",
+      "¾ cup water (to cook the gravy)",
+      "3 Tbsp cream (optional)",
+      "⅛ tsp cumin seeds ",
+      "2 green cardamoms pods",
+      "1 in cinnamon stick",
+      "2 cloves"
+   ],
+   "Steps": [
+      "Pluck only the young & tender spinach leaves and discard the stems as they may leave a bitter taste. If using baby spinach you can use the stems as well. Add them to a large pot of water. Rinse them well few times & drain to a colander. Allow the water to drain completely otherwise it will let out lot of moisture while cooking.",
+      "Heat half tbsp oil in a pan. Saute green chilies, cashews and spinach for 3 to 4 mins until the leaves wilt off thoroughly & raw smell of spinach has gone away. Cool this completely. Blend this along with water to a smooth puree. The puree should be smooth and thick. You may add 1 to 2 tbsps more water to help in blending.",
+      "Heat 1 tbsp butter and half tbsp oil to the same pan, Once they melt, add cinnamon, cardamoms, cloves & cumin seeds. When the spices begin to sizzle, add onions and fry till they turn transparent to golden.",
+      "Next saute ginger garlic paste for 1 to 2 minutes or until you begin to smell it nice. Then add tomatoes with salt. Saute until they break down and turn mushy. Add garam masala & saute until the masala smells good. This may take 2 mins. Pour water and cook covered until onions are completely soft. There should be some water left in the pan. ",
+      "Lower the flame, add kasuri methi and pureed spinach. Mix well and cook until it begins to bubble for about 2 to 3 mins. If the curry is too thick you may add a few tbsps of hot water. Avoid overcooking. ",
+      "If using store bought paneer, cube it and add to 2 cups hot water. Keep immersed for 10 mins, then drain. Add paneer & mix well. Turn off and remove to a serving bowl. "
    ]
 },
  {
@@ -870,6 +954,33 @@
       "Set the slow cooker to high, cover and cook the lentils for 2 hours and 45 minutes, or until the lentils are tender and the rhubarb is soft.",
       "Dissolve the coconut cream in water and set aside.",
       "Finish the slow cooked lentil curry by adding cilantro and the coconut cream-water mixture."
+   ]
+},
+ {
+   "Title": "Spanakopita",
+   "Id": 1,
+   "Type": "Main",
+   "OriginalURL": "https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/",
+   "Ingredients": [
+      "450 g frozen chopped spinach, thawed and well-drained",
+      "2 bunches flat-leaf parsley, stems trimmed, finely chopped",
+      "1 large yellow onion, finely chopped",
+      "2 garlic cloves, minced",
+      "2 tbsp extra virgin olive oil",
+      "4 eggs",
+      "300 g quality feta cheese, crumbled",
+      "2 tsp dried dill weed",
+      "Freshly-ground black pepper",
+      "453g (or one package) phyllo dough, properly thawed  ",
+      "1 cup extra virgin olive oil, more if needed"
+   ],
+   "Steps": [
+      "Preheat the oven to 325 degrees F. Before you begin mixing the filling, be sure the spinach is very well drained, and squeeze out any excess liquid by hand.",
+      "In a mixing bowl, add the spinach and the remaining filling ingredients. Stir until all is well-combined.",
+      "Unroll the phyllo sheets and place them between two slightly damp kitchen cloths. Prepare a 9 ½\" x 13\" baking dish. Brush the bottom and sides of the dish with olive oil.",
+      "Now, evenly spread the spinach and feta filling over the phyllo crust. Top with two more sheets, and brush with olive oil. Continue to layer the phyllo sheets, two-at-a-time, brushing with olive oil, until you have used up all the sheets. Brush the very top layer with olive oil, and sprinkle with just a few drops of water. ",
+      "Fold the flaps or excess from the sides, you can crumble them a little. Brush the folded sides well with olive oil. Cut Spanakopita ONLY PART-WAY through into squares, or leave the cutting to later.",
+      "Bake in the 325 degrees F heated-oven for 1 hour, or until the phyllo crust is crisp and golden brown. Remove from the oven. Finish cutting into squares and serve."
    ]
 },
  {
