@@ -19,6 +19,7 @@ let mbRecipe;
 
 
 $(document).ready(function () {
+  // $.getJSON("json/recipes.json", function (data) {
   $.getJSON("../EGG/json/recipes.json", function (data) {
     dataFromJSON = data;
     for (let j = 0; j < dataFromJSON.length; j++) {
@@ -94,16 +95,16 @@ $(document).ready(function () {
         eggArray[i].src = "assets/egg" + eggId + ".gif";
       }
 
+      $("h2:first-of-type").text(eggType);
+
+      setTimeout(animEgg, 4500, "done");
+
       this.src = eggArray[eggId].src;
       eggZoom = $("#marking").attr({ "src": "assets/marking/" + eggCode[eggId - 1] + ".jpg" });
 
       $(document).mousemove(function (e) {
         $(".egg-zoom").css({ left: e.pageX, top: e.pageY });
       });
-
-      $("h2:first-of-type").text(eggType);
-
-      setTimeout(animEgg, 4500, "done");
 
       function animEgg(p1) {
         eggImg.src = "assets/egg" + eggId + ".png";
