@@ -56,8 +56,8 @@
       "240 g Plant based milk",
       "150 g granulated sugar",
       "110 g neutral oil",
-      "14 g (3 tsp) apple cider vinegar",
-      "14 g (3 tsp) vanilla extract or vanilla bean paste",
+      "3 tsp apple cider vinegar",
+      "3 tsp vanilla extract or vanilla bean paste",
       "290 g all purpose flour",
       "1 tsp baking powder",
       "1 tsp baking soda",
@@ -139,7 +139,7 @@
       "220 g light brown sugar (or 190 g of brown sugar + 30 g of coconut sugar)",
       "3 tbsp granulated sugar",
       "2 tbsp white miso paste",
-      "65 ml (¼  cup) brewed coffee ",
+      "65 ml brewed coffee ",
       "2 tsp vanilla extract",
       "219 grams all-purpose flour",
       "1 tsp baking soda",
@@ -163,9 +163,9 @@
    "Ingredients": [
       "400g artichoke hearts, drained and sliced in half",
       "1 tbsp olive oil",
-      "1 tub (250g) of ricotta cheese",
+      "250g of ricotta cheese",
       "1 lemon",
-      "1 jar (700g) of Queen Butter Beans, drained",
+      "700g Queen Butter Beans, drained",
       "3 tbsp olive oil",
       "A handful of fresh parsley, roughly chopped",
       "3 tbsp capers, roughly chopped",
@@ -325,10 +325,10 @@
    "Type": "Bread",
    "OriginalURL": "https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/",
    "Ingredients": [
-      "4 cups (512 g) all-purpose flour or bread flour",
-      "2 tsp (10 g) kosher salt",
-      "2 tsp (8 g) instant yeast",
-      "2 cups (455 g) lukewarm water, made by combining 1/2 cup boiling water with 1 1/2 cups cold water",
+      "512 g all-purpose flour or bread flour",
+      "2 tsp kosher salt",
+      "2 tsp instant yeast",
+      "455 g lukewarm water",
       "butter for greasing",
       "4 tbsp olive oil, divided",
       "flaky sea salt, such as Maldon",
@@ -438,6 +438,27 @@
    ]
 },
  {
+   "Title": "Fluffy Pancakes (V)",
+   "Id": 0,
+   "Type": "Breakfast",
+   "OriginalURL": "https://tasty.co/recipe/the-fluffiest-vegan-pancakes",
+   "Ingredients": [
+      "125 g flour",
+      "2 tbsp sugar",
+      "1 tbsp baking powder",
+      "½ tsp salt",
+      "240 mL non-dairy milk ",
+      "1 tbsp apple cider vinegar",
+      "1 tsp vanilla",
+      "maple syrup, to serve"
+   ],
+   "Steps": [
+      "In a bowl, add the flour, sugar, baking powder, and salt, and stir to combine.",
+      "In another bowl, add almond milk, apple cider vinegar, and vanilla, and stir to combine. Pour the liquid mixture into the dry mixture and whisk until smooth. Let batter rest for 5 minutes.",
+      "Pour about ½ cup of batter onto a nonstick pan or griddle over medium heat. When the top begins to bubble, flip the pancake and cook until golden. Serve warm with maple syrup."
+   ]
+},
+ {
    "Title": "Garam Masala",
    "Id": 7,
    "Type": "Misc",
@@ -448,12 +469,12 @@
       "1 tsp fennel seeds",
       "1 tsp black peppercorns",
       "1 tsp green cardamom seeds",
-      "1/2 tsp black cardamom seeds",
+      "½ tsp black cardamom seeds",
       "1 stick cinnamon , about 3 inches",
       "2 star anise",
       "8 whole cloves",
-      "1/2 tsp freshly ground nutmeg",
-      "1/4 tsp ground mace (optional)",
+      "½ tsp freshly ground nutmeg",
+      "¼ tsp ground mace (optional)",
       "2 dried curry leaves or one large bay leaf"
    ],
    "Steps": [
@@ -658,16 +679,16 @@
    "OriginalURL": "https://everydaypie.com/oat-and-buckwheat-chocolate-chip-cookies/",
    "Ingredients": [
       "½ cup unsalted butter, diced",
-      "½ cup (100 g) granulated sugar",
-      "½ cup (100 g) brown sugar ",
+      "100 g granulated sugar",
+      "100 g brown sugar ",
       "¾ tsp salt",
       "1 flax egg (1 Tbsp flaxseed powder + 3 Tbsp water)",
-      "¼ cup (60 g) plant-based milk",
+      "60 mL plant-based milk",
       "1 tsp vanilla extract",
-      "1-½ cup (180 g) buckwheat flour",
-      "1 cup (120 g) oat flour",
+      "180 g buckwheat flour",
+      "120 g oat flour",
       "1 tsp baking soda",
-      "(125g) dark chocolate chips "
+      "125g dark chocolate chips "
    ],
    "Steps": [
       "Preheat oven to 350º and line two baking sheets with parchment paper.",
@@ -765,7 +786,7 @@
    "Type": "Sides",
    "OriginalURL": "https://www.instagram.com/p/Cm9cWVUocxP/",
    "Ingredients": [
-      "1 15 oz can of cannellini beans ",
+      "1 (15 oz) can of cannellini beans ",
       "4-5 jarred roasted piquillo peppers, sliced",
       "6-7 jarred quartered and marinated artichoke hearts plus some of the oil",
       "4-5 guindilla peppers, chopped ",
@@ -989,9 +1010,9 @@
    "Type": "Main",
    "OriginalURL": "https://www.instagram.com/p/CsT8jS_qLTt/",
    "Ingredients": [
-      "1 pack of precooked gnocchi  ",
+      "1 package precooked gnocchi  ",
       "250 g fresh spinach",
-      "½ can of cannellini beans  ",
+      "½ can cannellini beans  ",
       "½ lemon  ",
       "2 cloves of garlic  ",
       "1 red chilli   ",
@@ -1010,7 +1031,7 @@
    "Type": "Misc",
    "OriginalURL": "https://www.youtube.com/watch?v=q2QsyB6UEBo",
    "Ingredients": [
-      "1 package (14oz) extra-firm tofu",
+      "1 (14 oz) package extra-firm tofu",
       "1 tsp paprika",
       "1 tsp garlic power",
       "1 tsp onion powder",
