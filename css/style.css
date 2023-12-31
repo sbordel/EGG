@@ -6,7 +6,8 @@ body {
 }
 
 body {
-  background-color: #b0a983;
+/*   background-color: #b0a983; */
+  background-image: url(../assets/background.jpg);
   -ms-overflow-style: none;
   overflow: -moz-scrollbars-none;
   overflow: hidden;
