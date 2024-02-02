@@ -79,38 +79,40 @@ $(document).ready(function () {
   })
 
   function run() {
-    /* desktop */
-    $(".eggimg").click(function () {
-      $("#menu-list").text("");
-      eggId = $(this).attr("id");
-      eggType = $(this).attr("alt");
+    };
 
-      eggImg = document.getElementsByClassName("eggimg");
-      eggImg.src = "assets/egg" + eggId + ".gif";
-      eggImg.title = $(this).attr("title");
-      // $("#code").text(eggImg.title);
-
-      for (i = 0; i < 11; i++) {
-        eggArray[i] = new Image();
-        eggArray[i].src = "assets/egg" + eggId + ".gif";
-      }
-
-      $("h2:first-of-type").text(eggType);
-
-      setTimeout(animEgg, 4500, "done");
-
-      this.src = eggArray[eggId].src;
-      eggZoom = $("#marking").attr({ "src": "assets/marking/" + eggCode[eggId - 1] + ".jpg" });
-
-      $(document).mousemove(function (e) {
-        $(".egg-zoom").css({ left: e.pageX, top: e.pageY });
+      /* desktop */
+      $(".eggimg").click(function () {
+        $("#menu-list").text("");
+        eggId = $(this).attr("id");
+        eggType = $(this).attr("alt");
+  
+        eggImg = document.getElementsByClassName("eggimg");
+        eggImg.src = "assets/egg" + eggId + ".gif";
+        eggImg.title = $(this).attr("title");
+        // $("#code").text(eggImg.title);
+  
+        for (i = 0; i < 11; i++) {
+          eggArray[i] = new Image();
+          eggArray[i].src = "assets/egg" + eggId + ".gif";
+        }
+  
+        $("h2:first-of-type").text(eggType);
+  
+        setTimeout(animEgg, 4500, "done");
+  
+        this.src = eggArray[eggId].src;
+        eggZoom = $("#marking").attr({ "src": "assets/marking/" + eggCode[eggId - 1] + ".jpg" });
+  
+        $(document).mousemove(function (e) {
+          $(".egg-zoom").css({ left: e.pageX, top: e.pageY });
+        });
+  
+        function animEgg(p1) {
+          eggImg.src = "assets/egg" + eggId + ".png";
+        }
+        getRecipe()
       });
-
-      function animEgg(p1) {
-        eggImg.src = "assets/egg" + eggId + ".png";
-      }
-      getRecipe()
-    });
 
     $(".eggimg-mobile").click(function () {
 
@@ -230,5 +232,5 @@ $(document).ready(function () {
       })
     }
   }
-});
+);
 

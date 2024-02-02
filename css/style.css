@@ -6,21 +6,17 @@ body {
 }
 
 body {
+<<<<<<< Updated upstream
 /*   background-color: #b0a983; */
   background-image: url(../assets/background.jpg);
+=======
+  background-image: url(../assets/background.png);
+  background-color: #b0a983;
+>>>>>>> Stashed changes
   -ms-overflow-style: none;
   overflow: -moz-scrollbars-none;
   overflow: hidden;
   scrollbar-width: none;
-}
-
-@font-face {
-  font-family: 'Lincoln/MITRE L/M 5x7';
-  src: url('../fonts/LincolnMITRE/LincolnMITRE-LM5x7.woff2') format('woff2'),
-    url('../fonts/LincolnMITRE/LincolnMITRE-LM5x7.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
 }
 
 /* scrollbar */
@@ -103,25 +99,6 @@ svg {
   right: 30px;
   width: 200px;
   border: black 1px solid;
-}
-
-.egg-zoom #color {
-  display: inline-block;
-  width: 50px;
-  height: 50px;
-  margin-left: 10px;
-  border-width: 5px;
-  border-style: outset;
-  border-color: #876b5e;
-  background-color: #876b5e;
-}
-
-.egg-zoom #code {
-  display: inline-flex;
-  margin-left: 10px;
-  font-family: 'Lincoln/MITRE L/M 5x7';
-  font-weight: bold;
-  font-size: 1.5em;
 }
 
 .index {
