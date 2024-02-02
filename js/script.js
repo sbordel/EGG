@@ -19,8 +19,8 @@ let mbRecipe;
 
 
 $(document).ready(function () {
-  // $.getJSON("json/recipes.json", function (data) {
-  $.getJSON("../EGG/json/recipes.json", function (data) {
+  $.getJSON("json/recipes.json", function (data) {
+  // $.getJSON("../EGG/json/recipes.json", function (data) {
     dataFromJSON = data;
     for (let j = 0; j < dataFromJSON.length; j++) {
     }
