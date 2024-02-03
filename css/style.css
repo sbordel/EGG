@@ -6,13 +6,9 @@ body {
 }
 
 body {
-<<<<<<< Updated upstream
 /*   background-color: #b0a983; */
   background-image: url(../assets/background.jpg);
-=======
-  background-image: url(../assets/background.png);
-  background-color: #b0a983;
->>>>>>> Stashed changes
+  background-size: cover;
   -ms-overflow-style: none;
   overflow: -moz-scrollbars-none;
   overflow: hidden;
