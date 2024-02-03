@@ -26,7 +26,9 @@ $(document).ready(function () {
     }
     recipeData = dataFromJSON.Recipes;
     run();
-  });
+
+  function run() {
+  };
 
   $(".dt-span").click(function () {
     if ((this.id) == "max") {
@@ -77,9 +79,6 @@ $(document).ready(function () {
       $("#min").attr("id", "max")
     }
   })
-
-  function run() {
-    };
 
       /* desktop */
       $(".eggimg").click(function () {
@@ -233,4 +232,4 @@ $(document).ready(function () {
     }
   }
 );
-
+});
