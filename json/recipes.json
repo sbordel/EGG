@@ -1,1076 +1,1300 @@
 {
 "Recipes": [
  {
-   "Title": "Apple Rhubarb Crumble (V)",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "https://www.bonappetit.com/recipe/apple-rhubarb-crumble",
-   "Ingredients": [
-      "⅔ cup old-fashioned oats",
-      "⅓ cup all-purpose flour",
-      "⅓ cup whole wheat flour",
-      "¼ cup (packed) dark brown sugar",
-      "½ teaspoon ground cinnamon",
-      "½ teaspoon kosher salt",
-      "6 tablespoons chilled unsalted butter, cut into pieces",
-      "1½ pound baking apples , peeled, cut into 1-inch pieces",
-      "12 ounces rhubarb, cut into ½-inch pieces",
-      "½ cup granulated sugar",
-      "1 tablespoon fresh lemon juice",
-      "1 teaspoon vanilla extract"
+ "Title": "“Ground Beef” Tofu (V + GF)",
+ "Id": 7,
+ "Type": "Misc",
+ "OriginalURL": "https://www.youtube.com/watch?v=q2QsyB6UEBo",
+ "Ingredients": [
+    "1 (14 oz) package extra-firm tofu",
+    "1 tsp paprika",
+    "1 tsp garlic power",
+    "1 tsp onion powder",
+    "1 tsp ground cumin",
+    "2 Tbsp nutritional yeast",
+    "2 Tbsp soy sauce",
+    "1 Tbsp canola oil",
+    "Salt and pepper"
    ],
-   "Steps": [
-      "Whisk oats, all-purpose flour, whole wheat flour, brown sugar, cinnamon, and salt in a medium bowl. Using your fingertips, work in butter until no dry spots remain and mixture holds together when squeezed. Cover and chill while you prepare the filling.",
-      "Preheat oven to 350°. Butter a shallow 2-qt. baking dish. Toss apples, rhubarb, granulated sugar, lemon juice, and vanilla in a large bowl; transfer to baking dish. Scatter crumble over fruit, breaking up any large pieces.",
-      "Place dish on a foil-lined rimmed baking sheet and bake until crumble is golden brown, juices are bubbling, and apples are tender, 35–50 minutes."
+ "Steps": [
+    "Preheat over to 400 degrees.",
+    "Whisk together all ingredients except tofu in a large bowl until incorporated. Add tofu and mash to desired texture. The smaller you mash the tofu, the faster it’ll get crispy, so keep that in mind.",
+    "Add tofu to a lined or greased baking sheet. Make sure you evenly spread your tofu out on the sheet pan. Put in oven for 20-25 minutes or until golden brown and crispy."
    ]
 },
  {
-   "Title": "Baba Ghanouj ",
-   "Id": 5,
-   "Type": "Condiment",
-   "OriginalURL": "https://cooking.nytimes.com/recipes/1014030-baba-ghanouj",
-   "Ingredients": [
-      "2 lbs eggplant, preferably small ",
-      "¼ cup freshly squeezed lemon juice ",
-      "¼ cup sesame tahini",
-      "1-2 tablespoons plain low-fat yogurt, as needed",
-      "2 garlic cloves, halved",
-      "Salt to taste",
-      "Extra-virgin olive oil",
-      "Chopped flat-leaf parsley"
+ "Title": "Apple Rhubarb Crumble (V)",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://www.bonappetit.com/recipe/apple-rhubarb-crumble",
+ "Ingredients": [
+    "⅔ cup old-fashioned oats",
+    "⅓ cup all-purpose flour",
+    "⅓ cup whole wheat flour",
+    "¼ cup (packed) dark brown sugar",
+    "½ teaspoon ground cinnamon",
+    "½ teaspoon kosher salt",
+    "6 tablespoons chilled unsalted butter, cut into pieces",
+    "1½ pound baking apples , peeled, cut into 1-inch pieces",
+    "12 ounces rhubarb, cut into ½-inch pieces",
+    "½ cup granulated sugar",
+    "1 tablespoon fresh lemon juice",
+    "1 teaspoon vanilla extract"
    ],
-   "Steps": [
-      "Preheat the oven to 425 degrees. Turn on your oven fan and roast the eggplants directly over the flame, turning often until charred and softened. Small, thin eggplants will cook through this way, but larger eggplants must be finished in the oven. Wrap in foil, and place in the hot oven for 20 minutes until thoroughly softened. ",
-      "Place the grilled eggplant in a colander in the sink, and allow to cool and drain. Peel and discard the black skins, cut off the stems, and let the eggplants sit in the colander to drain for another 15 to 30 minutes.",
-      "Puree the eggplant in a food processor fitted with the steel blade. Add the lemon juice, yogurt and tahini. In a mortar and pestle, pound the garlic to a paste with a generous pinch of salt. Add to the food processor, and blend with the eggplant. Add salt to taste.",
-      "Mound the puree in a bowl or on a platter, and drizzle with olive oil. Sprinkle with parsley. Serve with pita bread."
+ "Steps": [
+    "Whisk oats, all-purpose flour, whole wheat flour, brown sugar, cinnamon, and salt in a medium bowl. Using your fingertips, work in butter until no dry spots remain and mixture holds together when squeezed. Cover and chill while you prepare the filling.",
+    "Preheat oven to 350°. Butter a shallow 2-qt. baking dish. Toss apples, rhubarb, granulated sugar, lemon juice, and vanilla in a large bowl; transfer to baking dish. Scatter crumble over fruit, breaking up any large pieces.",
+    "Place dish on a foil-lined rimmed baking sheet and bake until crumble is golden brown, juices are bubbling, and apples are tender, 35–50 minutes."
    ]
 },
  {
-   "Title": "Banana Chocolate Chip Muffin (V)",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "https://cloudykitchen.com/blog/vegan-banana-muffins/#tasty-recipes-16894-jump-target",
-   "Ingredients": [
-      "240 g Plant based milk",
-      "150 g granulated sugar",
-      "110 g neutral oil",
-      "3 tsp apple cider vinegar",
-      "3 tsp vanilla extract or vanilla bean paste",
-      "290 g all purpose flour",
-      "1 tsp baking powder",
-      "1 tsp baking soda",
-      "6 g (1 tsp) salt",
-      "280 g very ripe banana, diced (not mashed)"
+ "Title": "Baba Ghanouj",
+ "Id": 5,
+ "Type": "Condiment",
+ "OriginalURL": "https://cooking.nytimes.com/recipes/1014030-baba-ghanouj",
+ "Ingredients": [
+    "2 lbs eggplant, preferably small",
+    "¼ cup freshly squeezed lemon juice",
+    "¼ cup sesame tahini",
+    "1-2 tablespoons plain low-fat yogurt, as needed",
+    "2 garlic cloves, halved",
+    "Salt to taste",
+    "Extra-virgin olive oil",
+    "Chopped flat-leaf parsley"
    ],
-   "Steps": [
-      "Preheat the oven to 350°F (180°C). Grease your muffin pan.",
-      "In a small bowl, whisk together the milk, sugar, oil, apple cider vinegar and vanilla.",
-      "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt. Add the wet ingredients and mix until just combined. Add the chopped banana and mix to incorporate, then fold in the chopped chocolate.",
-      "Divide the batter evenly between the 6 muffin cups. Sprinkle the tops with extra chocolate",
-      "Bake the muffins for 20 to 22 minutes or until the tops spring back when lightly pressed.",
-      "Remove from the oven and allow to cool in the pan for 5-10 minutes then remove from the pan and allow to cool completely on a wire rack."
+ "Steps": [
+    "Preheat the oven to 425 degrees. Turn on your oven fan and roast the eggplants directly over the flame, turning often until charred and softened. Small, thin eggplants will cook through this way, but larger eggplants must be finished in the oven. Wrap in foil, and place in the hot oven for 20 minutes until thoroughly softened.",
+    "Place the grilled eggplant in a colander in the sink, and allow to cool and drain. Peel and discard the black skins, cut off the stems, and let the eggplants sit in the colander to drain for another 15 to 30 minutes.",
+    "Puree the eggplant in a food processor fitted with the steel blade. Add the lemon juice, yogurt and tahini. In a mortar and pestle, pound the garlic to a paste with a generous pinch of salt. Add to the food processor, and blend with the eggplant. Add salt to taste.",
+    "Mound the puree in a bowl or on a platter, and drizzle with olive oil. Sprinkle with parsley. Serve with pita bread."
    ]
 },
  {
-   "Title": "Beluga Lentil Salad (V)",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "http://shemeshkitchen.com/vegan-beluga-lentil-salad/",
-   "Ingredients": [
-      "250 g beluga lentils",
-      "1 garlic clove, crushed",
-      "1 pinch salt",
-      "100 g tahini",
-      "30 g amba hot mango pickle",
-      "10 g lemon juice",
-      "80 g water",
-      "1 tsp turmeric powder",
-      "¼ tbsp cumin powder",
-      "3-4 small cucumbers, halved and sliced",
-      "10-12 cherry tomatoes, quartered",
-      "2-3 green chilies, optional",
-      "3 sprigs of mint, sliced",
-      "2 handful parsley, chopped",
-      "¼ tsp cumin powder",
-      "juice of 1 lemon",
-      "olive oil",
-      "salt"
+ "Title": "Banana Chocolate Chip Muffin (V)",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://cloudykitchen.com/blog/vegan-banana-muffins/#tasty-recipes-16894-jump-target",
+ "Ingredients": [
+    "240 g Plant based milk",
+    "150 g granulated sugar",
+    "110 g neutral oil",
+    "3 tsp apple cider vinegar",
+    "3 tsp vanilla extract or vanilla bean paste",
+    "290 g all purpose flour",
+    "1 tsp baking powder",
+    "1 tsp baking soda",
+    "6 g (1 tsp) salt",
+    "280 g very ripe banana, diced (not mashed)"
    ],
-   "Steps": [
-      "First, place the lentils and garlic in a pot and cover with a lot of cold water. Bring to a boil, then reduce heat to minimum. After 18 minutes, add salt, let cook for 2 more minutes, then strain. Discard the garlic.",
-      "Make the mango sauce by pureeing the tahini, amba mango pickle, lemon juice, water, turmeric and cumin together till you reach a smooth thick consistency. Put aside. ",
-      "Mix the vegetable and herbs together for the salad.",
-      "When the lentils have chilled slightly, mix with the sauce, then top with the salad."
+ "Steps": [
+    "Preheat the oven to 350°F (180°C). Grease your muffin pan.",
+    "In a small bowl, whisk together the milk, sugar, oil, apple cider vinegar and vanilla.",
+    "In a medium bowl, whisk together the flour, baking powder, baking soda, and salt. Add the wet ingredients and mix until just combined. Add the chopped banana and mix to incorporate, then fold in the chopped chocolate.",
+    "Divide the batter evenly between the 6 muffin cups. Sprinkle the tops with extra chocolate",
+    "Bake the muffins for 20 to 22 minutes or until the tops spring back when lightly pressed.",
+    "Remove from the oven and allow to cool in the pan for 5-10 minutes then remove from the pan and allow to cool completely on a wire rack."
    ]
 },
  {
-   "Title": "Besan Chilla",
-   "Type": "Breakfast",
-   "OriginalURL": "https://www.vegrecipesofindia.com/besan-cheela-recipe-besan-chilla/#step-by-step",
-   "Ingredients": [
-      "100 g besan (gram flour)",
-      "¼ cup onions, finely chopped",
-      "¼ cup tomatoes, finely chopped",
-      "¼ cup cilantro leaves, finely chopped ",
-      "½-⅔ tsp green chilies, finely chopped",
-      "½ inch ginger, grated",
-      "½ tsp ajwain",
-      "2 to 3 pinches turmeric powder",
-      "¼ tsp cayenne pepper",
-      "½-⅔ cup water or add as required",
-      "salt as required",
-      "oil as required"
+ "Title": "Beluga Lentil Salad (V)",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "http://shemeshkitchen.com/vegan-beluga-lentil-salad/",
+ "Ingredients": [
+    "250 g beluga lentils",
+    "1 garlic clove, crushed",
+    "1 pinch salt",
+    "100 g tahini",
+    "30 g amba hot mango pickle",
+    "10 g lemon juice",
+    "80 g water",
+    "1 tsp turmeric powder",
+    "¼ Tbsp cumin powder",
+    "3-4 small cucumbers, halved and sliced",
+    "10-12 cherry tomatoes, quartered",
+    "2-3 green chilies, optional",
+    "3 sprigs of mint, sliced",
+    "2 handful parsley, chopped",
+    "¼ tsp cumin powder",
+    "juice of 1 lemon",
+    "olive oil",
+    "salt"
    ],
-   "Steps": [
-      "Take the gram flour in a mixing bowl. Add the onions, tomatoes, ginger, green chillies ground spices, carom seeds, coriander leaves and salt.",
-      "First add ½ cup water and with a wired whisk begin to mix. If the batter looks thick, then add 1 to 3 tablespoons more water. Depending on the quality and texture of besan, you can add less or more water. Mix to a smooth flowing consistency in the batter. Break lumps if any while mixing batter.",
-      "Heat a frying pan or a skillet on a low to medium-low heat. You can use an iron skillet or a non-stick pan. If using iron skillet or tawa, then spread a bit of oil on it. Let the pan become medium hot. Then take a ladle full of the batter and pour on the pan.",
-      "Gently with the back of the ladle, begin to spread the batter. Spread lightly and gently so that the cheela does not break. On a low flame cook the chilla till the top begins to look cooked.",
-      "Drizzle ½ to 1 teaspoon oil on the chilla at the edges and all around. Continue to cook till the base gets light golden. Flip and now cook the other side. Cook this side until you see golden spots on the besan chilla."
+ "Steps": [
+    "First, place the lentils and garlic in a pot and cover with a lot of cold water. Bring to a boil, then reduce heat to minimum. After 18 minutes, add salt, let cook for 2 more minutes, then strain. Discard the garlic.",
+    "Make the mango sauce by pureeing the tahini, amba mango pickle, lemon juice, water, turmeric and cumin together till you reach a smooth thick consistency. Put aside.",
+    "Mix the vegetable and herbs together for the salad.",
+    "When the lentils have chilled slightly, mix with the sauce, then top with the salad."
    ]
 },
  {
-   "Title": "Blood Orange Tiramisù",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "https://www.instagram.com/p/CodstBJJ84y/",
-   "Ingredients": [
-      "2 ¼ cups mascarpone",
-      "⅓ cup heavy cream",
-      "2 tbsp Cointreau or Gran Mariner",
-      "5 eggs, separated",
-      "1 tsp vanilla extract",
-      "½ cup granulated sugar",
-      "48 ladyfingers",
-      "1 ½ cups fresh squeezed blood orange juice, strained",
-      "Orange zest, for dusting"
+ "Title": "Besan Chilla",
+ "Id": 0,
+ "Type": "Breakfast",
+ "OriginalURL": "https://www.vegrecipesofindia.com/besan-cheela-recipe-besan-chilla/#step-by-step",
+ "Ingredients": [
+    "100 g besan (gram flour)",
+    "¼ cup onions, finely chopped",
+    "¼ cup tomatoes, finely chopped",
+    "¼ cup cilantro leaves, finely chopped",
+    "½-⅔ tsp green chilies, finely chopped",
+    "½ inch ginger, grated",
+    "½ tsp ajwain",
+    "2 to 3 pinches turmeric powder",
+    "¼ tsp cayenne pepper",
+    "½-⅔ cup water or add as required",
+    "salt as required",
+    "oil as required"
    ],
-   "Steps": [
-      "In a stand mixer, combine mascarpone, cream, liquor, egg yolks, vanilla and sugar. Using a whisk attachment, mix on medium until soft peaks form. If you drag your finger through it, it should leave a slight trail. Do not over mix.",
-      "Move the mascarpone mixture into another bowl. Wash out the stand mixer bowl and the whisk attachment. Then whisk your egg whites until stable peaks have formed. Be very careful to not over mix.",
-      "Carefully fold the egg whites into the mascarpone mixture. Third by third.",
-      "Using a large 9x13 baking dish, coat the bottom in the mascarpone cream. Then dip each ladyfinger into the blood orange purée and line the bottom of the dish. Once the bottom is covered, spread half of the mascarpone cream. Repeat with the ladyfingers and the other half of cream.",
-      "Chill for a minimum of 8 hours, but best when chilled overnight. Top with orange zest and serve!"
+ "Steps": [
+    "Take the gram flour in a mixing bowl. Add the onions, tomatoes, ginger, green chillies ground spices, carom seeds, coriander leaves and salt.",
+    "First add ½ cup water and with a wired whisk begin to mix. If the batter looks thick, then add 1 to 3 tablespoons more water. Depending on the quality and texture of besan, you can add less or more water. Mix to a smooth flowing consistency in the batter. Break lumps if any while mixing batter.",
+    "Heat a frying pan or a skillet on a low to medium-low heat. You can use an iron skillet or a non-stick pan. If using iron skillet or tawa, then spread a bit of oil on it. Let the pan become medium hot. Then take a ladle full of the batter and pour on the pan.",
+    "Gently with the back of the ladle, begin to spread the batter. Spread lightly and gently so that the cheela does not break. On a low flame cook the chilla till the top begins to look cooked.",
+    "Drizzle ½ to 1 teaspoon oil on the chilla at the edges and all around. Continue to cook till the base gets light golden. Flip and now cook the other side. Cook this side until you see golden spots on the besan chilla."
    ]
 },
  {
-   "Title": "Brown Butter Miso Coffee Chocolate Chip Cookies (V)",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "https://www.purelykaylie.com/vegan-chocolate-chip-cookies/#tasty-recipes-7002-jump-target",
-   "Ingredients": [
-      "112 g browned butter",
-      "220 g light brown sugar (or 190 g of brown sugar + 30 g of coconut sugar)",
-      "3 tbsp granulated sugar",
-      "2 tbsp white miso paste",
-      "65 ml brewed coffee ",
-      "2 tsp vanilla extract",
-      "219 grams all-purpose flour",
-      "1 tsp baking soda",
-      "¼ tsp salt",
-      "1 cup chocolate chips"
+ "Title": "Blood Orange Tiramisù",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://www.instagram.com/p/CodstBJJ84y/",
+ "Ingredients": [
+    "2 ¼ cups mascarpone",
+    "⅓ cup heavy cream",
+    "2 Tbsp Cointreau or Gran Mariner",
+    "5 eggs, separated",
+    "1 tsp vanilla extract",
+    "½ cup granulated sugar",
+    "48 ladyfingers",
+    "1 ½ cups fresh squeezed blood orange juice, strained",
+    "Orange zest, for dusting"
    ],
-   "Steps": [
-      "Preheat the oven to 350°F. Line a large baking sheet with parchment paper.",
-      "Brown the butter and set it aside. Once cooled, add in a large bowl along with brown sugar, and granulated sugar. Using a handheld mixer or stand mixer, cream the butter and sugar together just until combined (about 1-2 minutes). Add the coffee, miso paste and vanilla extract. Cream together once more to combine.",
-      "Add the all-purpose flour, baking soda, and salt to the bowl. Fold the ingredients together until evenly combined. Then, stir in the chocolate chips.",
-      "Cover the cookie dough with cling wrap and place in the refrigerator to chill for at least 30 minutes.",
-      "Scoop the cookie dough into balls and transfer to the baking sheet.",
-      "Bake cookies for 12 minutes on the middle rack in your oven. The center should  appear underbaked. Once you remove them from the oven, let the cookies rest for 5 minutes on the baking sheet. They will de-puff and firm up while cooling. "
+ "Steps": [
+    "In a stand mixer, combine mascarpone, cream, liquor, egg yolks, vanilla and sugar. Using a whisk attachment, mix on medium until soft peaks form. If you drag your finger through it, it should leave a slight trail. Do not over mix.",
+    "Move the mascarpone mixture into another bowl. Wash out the stand mixer bowl and the whisk attachment. Then whisk your egg whites until stable peaks have formed. Be very careful to not over mix.",
+    "Carefully fold the egg whites into the mascarpone mixture. Third by third.",
+    "Using a large 9x13 baking dish, coat the bottom in the mascarpone cream. Then dip each ladyfinger into the blood orange purée and line the bottom of the dish. Once the bottom is covered, spread half of the mascarpone cream. Repeat with the ladyfingers and the other half of cream.",
+    "Chill for a minimum of 8 hours, but best when chilled overnight. Top with orange zest and serve!"
    ]
 },
  {
-   "Title": "Butter Beans & Grilled artichoke hearts with Ricotta",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "https://www.instagram.com/p/CsQknFhoVw5/",
-   "Ingredients": [
-      "400g artichoke hearts, drained and sliced in half",
-      "1 tbsp olive oil",
-      "250g of ricotta cheese",
-      "1 lemon",
-      "700g Queen Butter Beans, drained",
-      "3 tbsp olive oil",
-      "A handful of fresh parsley, roughly chopped",
-      "3 tbsp capers, roughly chopped",
-      "The juice of 1 lemon, zest reserved for garnish"
+ "Title": "Brown Butter Miso Choc Chip Cookie w/ sesame seeds",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://butternutbakeryblog.com/miso-chocolate-chip-cookies/",
+ "Ingredients": [
+    "110g unsalted butter",
+    "1 ½ Tbsp white miso paste",
+    "100g granulated sugar",
+    "100g dark brown sugar",
+    "1 tsp vanilla extract",
+    "1 large egg",
+    "165g all purpose flour",
+    "½ tsp baking powder",
+    "¼ tsp baking soda",
+    "¼ tsp salt",
+    "1 bar (170g) of 70-80% dark chocolate",
+    "3 Tbsp white sesame seeds"
    ],
-   "Steps": [
-      "Add all of the ingredients for the dressing to a small bowl and mix well to combine. Toss in the butter beans and leave to marinate will you carry on with the next steps.",
-      "Heat the olive oil in a griddle pan over a high heat. Add the artichokes with a pinch of salt and cook for 3-4 minutes, turning half way-through, until griddle marks show.",
-      "Add the ricotta to a mixing bowl with the zest of 1 lemon and whip into creamy consistency.",
-      "To plate, spread the ricotta onto a large serving plate, top with the artichokes, scatter over the marinated beans and finish with a drizzle of the last bits of the dressing. Finish with some lemon zest and an extra drizzle of olive oil."
+ "Steps": [
+    "Add the butter to a saucepan over medium heat. Melt down and heat until browned. Pour the brown butter into a measuring glass and add the miso paste. Whisk to combine and set aside to cool.",
+    "Preheat the oven to 350F and line a large baking sheet with parchment paper.",
+    "In a medium mixing bowl, whisk together the flour, baking powder, baking soda, and salt and set aside.",
+    "In another larger mixing bowl, add the sugar, dark brown sugar, and cooled miso brown butter. Whisk to combine. Add in the egg and vanilla and whisk vigorously until the mixture turns pale and creamy.",
+    "Pour in the dry ingredients and use a rubber spatula to fold the two together. Right before the dry ingredients are fully mixed in, add in the chopped chocolate and fold to fully combine.",
+    "Use a ¼ measuring cup and scoop out the cookies. Then press the tops of the cookie dough balls into a dish containing the sesame seeds to cover the tops of each cookie. Place the cookies on a sheet and bake for 11-13 minutes, or until the edges are a light golden brown and the centers look barely underdone."
    ]
 },
  {
-   "Title": "Cabbage Pie (V)",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "https://www.instagram.com/p/CaDMmcCuLO4/",
-   "Ingredients": [
-      "1 head of cabbage (approx. 1 3/4 lbs)",
-      "2 leeks",
-      "1 ¼ tsp\n  salt",
-      "1 tsp ground coriander",
-      "¼ tsp garlic powder",
-      "½ tsp smoked paprika",
-      "¼ tsp mustard powder",
-      "½ cup cashews",
-      "½ package of phyllo dough, thawed",
-      "2 tbsp melted butter or vegan butter",
-      "neutral oil"
+ "Title": "Brown Butter Miso Coffee Chocolate Chip Cookies (V)",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://www.purelykaylie.com/vegan-chocolate-chip-cookies/#tasty-recipes-7002-jump-target",
+ "Ingredients": [
+    "112 g browned butter",
+    "220 g light brown sugar (or 190 g of brown sugar + 30 g of coconut sugar)",
+    "3 Tbsp granulated sugar",
+    "2 Tbsp white miso paste",
+    "65 ml brewed coffee",
+    "2 tsp vanilla extract",
+    "219 grams all-purpose flour",
+    "1 tsp baking soda",
+    "¼ tsp salt",
+    "1 cup chocolate chips"
    ],
-   "Steps": [
-      "Quarter the cabbage and remove the core. Thinly slice and place in a large bowl.",
-      "Remove the stem and dark green part of the leeks and slice in half vertically. Rinse to remove sand and thinly slice. Add to the large bowl with cabbage along with salt, coriander, garlic powder, smoked paprika, and mustard powder. Mix thoroughly with your hands until cabbage becomes tender, about 3 minutes. Allow to sit for at least 30 minutes.",
-      "Pulse the cashews in the food processor until finely crushed. Add to the bowl of cabbage and mix.",
-      "Preheat the oven to 375F/190C.",
-      "Generously grease a 9\" pie dish with butter and layer 3 sheets of phyllo making sure there is around 2-3” of excess. Brush the sheets with butter and layer 3 more and repeat. Add the last 3 sheets of phyllo and brush with butter. Squeeze the cabbage mixture with your hand to ring out any excess liquid and add onto the phyllo sheets. Crimp in excess phyllo to form an outer crust. lightly coat the crust and cabbage filling with neutral oil and bake for around 1 hour or until crust and filling is lightly browned and cooked though.",
-      "Allow to cool slightly before slicing and serve with yogurt."
+ "Steps": [
+    "Preheat the oven to 350°F. Line a large baking sheet with parchment paper.",
+    "Brown the butter and set it aside. Once cooled, add in a large bowl along with brown sugar, and granulated sugar. Using a handheld mixer or stand mixer, cream the butter and sugar together just until combined (about 1-2 minutes). Add the coffee, miso paste and vanilla extract. Cream together once more to combine.",
+    "Add the all-purpose flour, baking soda, and salt to the bowl. Fold the ingredients together until evenly combined. Then, stir in the chocolate chips.",
+    "Cover the cookie dough with cling wrap and place in the refrigerator to chill for at least 30 minutes.",
+    "Scoop the cookie dough into balls and transfer to the baking sheet.",
+    "Bake cookies for 12 minutes on the middle rack in your oven. The center should  appear underbaked. Once you remove them from the oven, let the cookies rest for 5 minutes on the baking sheet. They will de-puff and firm up while cooling."
    ]
 },
  {
-   "Title": "Caponata (V)",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "https://www.instagram.com/p/CsHL5xgI7KS/",
-   "Ingredients": [
-      "1 globe aubergine ",
-      "2 large onions, thinly sliced",
-      "4-6 stalks celery, thinly sliced",
-      "1 punnet cherry tomatoes (about 250g), halved",
-      "100 g tomato paste",
-      "4 tbsp capers, drained",
-      "150 g green olives pitted",
-      "1 cup white wine",
-      "Olive oil ",
-      "3 tbsp white wine vinegar",
-      "1-2 tbsp sugar",
-      "Salt & pepper to taste"
+ "Title": "Butter Beans & Grilled artichoke hearts with Ricotta",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://www.instagram.com/p/CsQknFhoVw5/",
+ "Ingredients": [
+    "400g artichoke hearts, drained and sliced in half",
+    "1 Tbsp olive oil",
+    "250g of ricotta cheese",
+    "1 lemon",
+    "700g Queen Butter Beans, drained",
+    "3 Tbsp olive oil",
+    "A handful of fresh parsley, roughly chopped",
+    "3 Tbsp capers, roughly chopped",
+    "The juice of 1 lemon, zest reserved for garnish"
    ],
-   "Steps": [
-      "Fry the aubergine on a medium heat in enough oil to just cover. Once lightly golden remove and season with salt. Allow to drain on a paper towel.",
-      "Using some of the aubergine frying oil, sauté the onions and celery until soft. ",
-      "Add tomato paste and white wine. Cook on a medium heat until the wine has reduced by half. Add capers, olives, fried eggplant, vinegar, chilli flake, black pepper, and sugar. Check before seasoning, it should be salty enough from the olives and capers.",
-      "Serve with bread and enjoy."
+ "Steps": [
+    "Add all of the ingredients for the dressing to a small bowl and mix well to combine. Toss in the butter beans and leave to marinate will you carry on with the next steps.",
+    "Heat the olive oil in a griddle pan over a high heat. Add the artichokes with a pinch of salt and cook for 3-4 minutes, turning half way-through, until griddle marks show.",
+    "Add the ricotta to a mixing bowl with the zest of 1 lemon and whip into creamy consistency.",
+    "To plate, spread the ricotta onto a large serving plate, top with the artichokes, scatter over the marinated beans and finish with a drizzle of the last bits of the dressing. Finish with some lemon zest and an extra drizzle of olive oil."
    ]
 },
  {
-   "Title": "Carrot Muffins (V)",
-   "Id": 3,
-   "Type": "Sweets",
-   "Ingredients": [
-      "170 g all-purpose flour",
-      "65 g wholewheat flour",
-      "2 tsp baking powder",
-      "½ tsp baking soda",
-      "110 g brown sugar",
-      "60 g white sugar",
-      "120 ml vegetable oil",
-      "120 ml soy milk",
-      "2 tsp apple cider vinegar",
-      "230 grams carrots, peeled & grated",
-      "1 tsp vanilla extract",
-      "zest of 1 orange",
-      "2 tsp cinnamon",
-      "½ tsp ginger powder",
-      "pinch of nutmeg",
-      "pinch of salt",
-      "60 g pecan nuts, chopped",
-      "¼ cup raisins"
+ "Title": "Cabbage Pie (V)",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://www.instagram.com/p/CaDMmcCuLO4/",
+ "Ingredients": [
+    "1 head of cabbage (approx. 1 ¾ lbs)",
+    "2 leeks",
+    "1 ¼ tsp\n  salt",
+    "1 tsp ground coriander",
+    "¼ tsp garlic powder",
+    "½ tsp smoked paprika",
+    "¼ tsp mustard powder",
+    "½ cup cashews",
+    "½ package of phyllo dough, thawed",
+    "2 Tbsp melted butter or vegan butter",
+    "neutral oil"
    ],
-   "Steps": [
-      "Preheat the oven to 360°F (180°C). Lightly grease a smaller rectangle baking pan and line with a strip of parchment paper.",
-      "In a large bowl, mix brown sugar, white sugar, vegetable oil, soy milk, apple cider vinegar, vanilla, and orange zest.",
-      "In a separate bowl mix flours, baking powder, baking soda, cinnamon, ginger, nutmeg, and salt. Sift the dry ingredients onto the wet ingredients and gently mix with a spatula until just combined, and there are no lumps of flour visible but don't overmix the batter.",
-      "Fold the grated carrots and chopped pecans into the batter. Distribute the batter evenly into the muffin tins and Bake for about 40-50 minutes.",
-      "Remove the baked cake from the oven and let rest in the baking pan for about 15-20 minutes, then transfer the cake onto a kitchen rack and let cool down completely."
+ "Steps": [
+    "Quarter the cabbage and remove the core. Thinly slice and place in a large bowl.",
+    "Remove the stem and dark green part of the leeks and slice in half vertically. Rinse to remove sand and thinly slice. Add to the large bowl with cabbage along with salt, coriander, garlic powder, smoked paprika, and mustard powder. Mix thoroughly with your hands until cabbage becomes tender, about 3 minutes. Allow to sit for at least 30 minutes.",
+    "Pulse the cashews in the food processor until finely crushed. Add to the bowl of cabbage and mix.",
+    "Preheat the oven to 375F/190C.",
+    "Generously grease a 9\" pie dish with butter and layer 3 sheets of phyllo making sure there is around 2-3” of excess. Brush the sheets with butter and layer 3 more and repeat. Add the last 3 sheets of phyllo and brush with butter. Squeeze the cabbage mixture with your hand to ring out any excess liquid and add onto the phyllo sheets. Crimp in excess phyllo to form an outer crust. lightly coat the crust and cabbage filling with neutral oil and bake for around 1 hour or until crust and filling is lightly browned and cooked though.",
+    "Allow to cool slightly before slicing and serve with yogurt."
    ]
 },
  {
-   "Title": "Cinnamon Raisin Swirl Bread (V)",
-   "Id": 4,
-   "Type": "Bread",
-   "OriginalURL": "https://www.onegreenplanet.org/vegan-recipe/delicious-cinnamon-raisin-swirl-bread/",
-   "Ingredients": [
-      "2 tsp active dry yeast",
-      "1 cup soy milk",
-      "⅓ cup warm water",
-      "2 tbsp granulated sugar",
-      "1 ½ tsp salt",
-      "¼ cup melted vegan butter",
-      "¾ cup raisins",
-      "3 ½ cups all-purpose flour",
-      "⅓ cup granulated sugar",
-      "2 tsp ground cinnamon"
+ "Title": "Caponata (V)",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://www.instagram.com/p/CsHL5xgI7KS/",
+ "Ingredients": [
+    "1 globe aubergine",
+    "2 large onions, thinly sliced",
+    "4-6 stalks celery, thinly sliced",
+    "1 punnet cherry tomatoes (about 250g), halved",
+    "100 g tomato paste",
+    "4 Tbsp capers, drained",
+    "150 g green olives pitted",
+    "1 cup white wine",
+    "Olive oil",
+    "3 Tbsp white wine vinegar",
+    "1-2 Tbsp sugar",
+    "Salt & pepper to taste"
    ],
-   "Steps": [
-      " In a large mixing bowl, sprinkle the yeast over the barely warm milk and water and allow to sit about 5-10 minutes until activated. Mix in the sugar, salt, and melted butter. Add the raisins. Gradually add flour, mixing until the dough comes together. If the dough is too dry, add small amounts of water until it does. If the dough is too sticky, add flour until it becomes workable; however, do not add too much flour or the bread will become dense.",
-      "Turn out dough on a lightly floured surface and knead the dough for 7-10 minutes until elastic. Cover dough with plastic wrap or a kitchen towel and let rise until doubled in a warm place, about 1 hour.",
-      "Now, prepare the filling. In a small bowl, stir together the sugar and cinnamon until evenly mixed. Set aside.",
-      "Punch down the dough before turning out onto a lightly floured surface. Roll out into a 9 by 15-inch rectangle. Spread some soft vegan butter over the dough before sprinkling the cinnamon sugar over it.",
-      "Starting with the shortest end, roll up the dough until a log is formed, folding down the ends. Transfer the log, seam side down, into a 9 by 5-inch loaf pan. Press dough down so it reaches the corners evenly. Cover with a kitchen towel and let rise for another 40-60 minutes until doubled.",
-      "Preheat oven to 350°F. Bake for 40-50 minutes, or until bread is golden and sounds hollow when tapped. Remove from baking pan and allow to cool slightly before \nslicing and serving."
+ "Steps": [
+    "Fry the aubergine on a medium heat in enough oil to just cover. Once lightly golden remove and season with salt. Allow to drain on a paper towel.",
+    "Using some of the aubergine frying oil, sauté the onions and celery until soft.",
+    "Add tomato paste and white wine. Cook on a medium heat until the wine has reduced by half. Add capers, olives, fried eggplant, vinegar, chilli flake, black pepper, and sugar. Check before seasoning, it should be salty enough from the olives and capers.",
+    "Serve with bread and enjoy."
    ]
 },
  {
-   "Title": "Creamy Pumpkin Fettuccine",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.instagram.com/p/CkQTot3SAgh/",
-   "Ingredients": [
-      "½ medium sized pumpkin",
-      "1 head of garlic",
-      "2-3 big sprigs of rosemary",
-      "4 tbsp olive oil + more for roasting the pumpkin",
-      "1 medium onion, finely chopped",
-      "2 tbsp tomato paste",
-      "½ cup whole milk",
-      "50 g cream cheese",
-      "50 g grated parmesan cheese",
-      "pasta water",
-      "salt and freshly cracked black pepper",
-      "fettuccine pasta",
-      "chili flakes",
-      "butter"
+ "Title": "Carrot Muffins (V)",
+ "Id": 3,
+ "Type": "Sweets",
+ "Ingredients": [
+    "170 g all-purpose flour",
+    "65 g wholewheat flour",
+    "2 tsp baking powder",
+    "½ tsp baking soda",
+    "110 g brown sugar",
+    "60 g white sugar",
+    "120 ml vegetable oil",
+    "120 ml soy milk",
+    "2 tsp apple cider vinegar",
+    "230 grams carrots, peeled & grated",
+    "1 tsp vanilla extract",
+    "zest of 1 orange",
+    "2 tsp cinnamon",
+    "½ tsp ginger powder",
+    "pinch of nutmeg",
+    "pinch of salt",
+    "60 g pecan nuts, chopped",
+    "¼ cup raisins"
    ],
-   "Steps": [
-      "Preheat the oven to 210C. Roughly chop the pumpkin and slice the garlic head horizontally in half. Place on a roasting tray. Pour a few lashings of olive oil and add 2 sprigs of rosemary. Roast for 40-50 mins until the pumpkin is tender. Mash the pumpkin and set the garlic head aside aside. ",
-      "In a non stick pan, heat the oil and fry the onion with a rosemary sprig until golden and fragrant. Squeeze out the roasted garlic from its peel, mash and add to the pan.",
-      "Remove the rosemary sprig and add the tomato paste. Sauté until cooked well.",
-      "Add the mashed roasted pumpkin and fry for a couple minutes. Add the milk and cheeses and stir to combine. The sauce should be pretty thick and creamy.",
-      "Put the pasta on boil. Add some of the pasta water to the sauce to thin it out the sauce. Add salt and pepper to taste.",
-      "For the chilli butter, I just heat the butter and stirred in the paprika. Serve on pasta. "
+ "Steps": [
+    "Preheat the oven to 360°F (180°C). Lightly grease a smaller rectangle baking pan and line with a strip of parchment paper.",
+    "In a large bowl, mix brown sugar, white sugar, vegetable oil, soy milk, apple cider vinegar, vanilla, and orange zest.",
+    "In a separate bowl mix flours, baking powder, baking soda, cinnamon, ginger, nutmeg, and salt. Sift the dry ingredients onto the wet ingredients and gently mix with a spatula until just combined, and there are no lumps of flour visible but don't overmix the batter.",
+    "Fold the grated carrots and chopped pecans into the batter. Distribute the batter evenly into the muffin tins and Bake for about 40-50 minutes.",
+    "Remove the baked cake from the oven and let rest in the baking pan for about 15-20 minutes, then transfer the cake onto a kitchen rack and let cool down completely."
    ]
 },
  {
-   "Title": "Easiest Focaccia Bread Recipe",
-   "Id": 4,
-   "Type": "Bread",
-   "OriginalURL": "https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/",
-   "Ingredients": [
-      "512 g all-purpose flour or bread flour",
-      "2 tsp kosher salt",
-      "2 tsp instant yeast",
-      "455 g lukewarm water",
-      "butter for greasing",
-      "4 tbsp olive oil, divided",
-      "flaky sea salt, such as Maldon",
-      "1 to 2 tsp whole rosemary leaves, optional"
+ "Title": "Cinnamon Raisin Swirl Bread (V)",
+ "Id": 4,
+ "Type": "Bread",
+ "OriginalURL": "https://www.onegreenplanet.org/vegan-recipe/delicious-cinnamon-raisin-swirl-bread/",
+ "Ingredients": [
+    "2 tsp active dry yeast",
+    "1 cup soy milk",
+    "⅓ cup warm water",
+    "2 Tbsp granulated sugar",
+    "1 ½ tsp salt",
+    "¼ cup melted vegan butter",
+    "¾ cup raisins",
+    "3 ½ cups all-purpose flour",
+    "⅓ cup granulated sugar",
+    "2 tsp ground cinnamon"
    ],
-   "Steps": [
-      "In a large bowl, whisk together the flour, salt, and instant yeast. Add the water. Using a rubber spatula, mix until the liquid is absorbed and the ingredients form a sticky dough ball. Rub the surface of the dough lightly with olive oil. Cover the bowl with a damp tea towel, cloth bowl cover, or plastic wrap and place in the refrigerator immediately for at least 12 hours or for as long as three days.",
-      "Line two 8- or 9-inch pie plates or a 9×13-inch pan with parchment paper or grease with butter or coat with nonstick cooking spray. ",
-      "Pour a tablespoon of oil into the center of each pan or 2 tablespoons of oil. Using two forks, deflate the dough by releasing it from the sides of the bowl and pulling it toward the center. Rotate the bowl in quarter turns as you deflate, turning the mass into a rough ball. Use the forks to split the dough into two equal pieces (or do not split if using the 9×13-inch pan). Place one piece into one of the prepared pans. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining piece. Let the dough balls rest for 3 to 4 hours depending on the temperature of your kitchen (Note: no need to cover for this room temperature rise).",
-      "Set a rack in the middle of the oven and preheat it to 425°F. If using the rosemary, sprinkle it over the dough. Pour a tablespoon of oil over each round of dough (or two tablespoons if using a 9×13-inch pan). Rub your hands lightly in the oil to coat, then, using all of your fingers, press straight down to create deep dimples. If necessary, gently stretch the dough as you dimple to allow the dough to fill the pan. Sprinkle with flaky sea salt all over.",
-      "Transfer the pans or pan to the oven and bake for 25 to 30 minutes, until the underside is golden and crisp. Remove the pans or pan from the oven and transfer the focaccia to a \ncooling rack. Let it cool for 10 minutes before cutting and serving."
+ "Steps": [
+    "In a large mixing bowl, sprinkle the yeast over the barely warm milk and water and allow to sit about 5-10 minutes until activated. Mix in the sugar, salt, and melted butter. Add the raisins. Gradually add flour, mixing until the dough comes together. If the dough is too dry, add small amounts of water until it does. If the dough is too sticky, add flour until it becomes workable; however, do not add too much flour or the bread will become dense.",
+    "Turn out dough on a lightly floured surface and knead the dough for 7-10 minutes until elastic. Cover dough with plastic wrap or a kitchen towel and let rise until doubled in a warm place, about 1 hour.",
+    "Now, prepare the filling. In a small bowl, stir together the sugar and cinnamon until evenly mixed. Set aside.",
+    "Punch down the dough before turning out onto a lightly floured surface. Roll out into a 9 by 15-inch rectangle. Spread some soft vegan butter over the dough before sprinkling the cinnamon sugar over it.",
+    "Starting with the shortest end, roll up the dough until a log is formed, folding down the ends. Transfer the log, seam side down, into a 9 by 5-inch loaf pan. Press dough down so it reaches the corners evenly. Cover with a kitchen towel and let rise for another 40-60 minutes until doubled.",
+    "Preheat oven to 350°F. Bake for 40-50 minutes, or until bread is golden and sounds hollow when tapped. Remove from baking pan and allow to cool slightly before \nslicing and serving."
    ]
 },
  {
-   "Title": "Eggplant Tarte Tatin With Feta",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "http://shemeshkitchen.com/eggplant-tarte-tatin-with-feta/",
-   "Ingredients": [
-      "2 globe aubergines, sliced into 2 cm thick slices",
-      "250 g feta",
-      "3 sprigs oregano",
-      "70 g olive oil",
-      "100 g cream cheese",
-      "2 eggs",
-      "3 tbsp honey",
-      "1-2 dry chilis, crushed",
-      "6-7 filo pastry leaves",
-      "salt"
+ "Title": "Creamy Pumpkin Fettuccine",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://www.instagram.com/p/CkQTot3SAgh/",
+ "Ingredients": [
+    "½ medium sized pumpkin",
+    "1 head of garlic",
+    "2-3 big sprigs of rosemary",
+    "4 Tbsp olive oil + more for roasting the pumpkin",
+    "1 medium onion, finely chopped",
+    "2 Tbsp tomato paste",
+    "½ cup whole milk",
+    "50 g cream cheese",
+    "50 g grated parmesan cheese",
+    "pasta water",
+    "salt and freshly cracked black pepper",
+    "fettuccine pasta",
+    "chili flakes",
+    "butter"
    ],
-   "Steps": [
-      "If using baby eggplants, cut off a tiny bit of skin on either side of the eggplants. That will allow them to cook more evenly. Remove the stalk and cut them in half lengthwise. Salt the eggplants generously and let them steep for 20 minutes.",
-      "Crumble your feta, add oregano leaves, about 20 g of olive oil, cream cheese, and eggs, and whisk well. Little lumps are ok, but the mixture should be creamy and spreadable.",
-      "Pat dry the eggplants with paper towels. Heat about half of the remaining olive oil in a large pan. Sauté the eggplants on both sides until well brown and softened, about 3 minutes per side. Remove from the pan and set aside. In a small saucepan, heat 3 tbsp of water. Add the honey and bring to a simmer. Crumble in the chili, add a bit of salt, bring to a quick boil, and remove from the heat.",
-      "In a small saucepan, heat 3 tbsp of water. Add the honey and bring to a simmer. Crumble in the chili, add a bit of salt, bring to a quick boil, and remove from the heat.",
-      "Preheat the oven to 200℃. In an oven-proof pan, add about a third of the honey syrup. Arrange the eggplants in an even layer to fill the bottom of the entire pan. Pour over the rest of the honey syrup. Spread the feta mix in an even layer on top of the eggplants. Add 1 leaf of filo pastry, brush gently with olive oil, then add the next leaf. Brush with oil and repeat 6 or 7 times, brushing the top layer.",
-      "Bake for about 20-25 minutes, until the pastry is golden brown and the syrup and cheese are bubbling and caramelized on the sides. Allow to cool for 10 minutes, then flip to a serving plate. Sprinkle with some oregano leaves and salt."
+ "Steps": [
+    "Preheat the oven to 210C. Roughly chop the pumpkin and slice the garlic head horizontally in half. Place on a roasting tray. Pour a few lashings of olive oil and add 2 sprigs of rosemary. Roast for 40-50 mins until the pumpkin is tender. Mash the pumpkin and set the garlic head aside aside.",
+    "In a non stick pan, heat the oil and fry the onion with a rosemary sprig until golden and fragrant. Squeeze out the roasted garlic from its peel, mash and add to the pan.",
+    "Remove the rosemary sprig and add the tomato paste. Sauté until cooked well.",
+    "Add the mashed roasted pumpkin and fry for a couple minutes. Add the milk and cheeses and stir to combine. The sauce should be pretty thick and creamy.",
+    "Put the pasta on boil. Add some of the pasta water to the sauce to thin it out the sauce. Add salt and pepper to taste.",
+    "For the chilli butter, I just heat the butter and stirred in the paprika. Serve on pasta."
    ]
 },
  {
-   "Title": "Falafels (V)",
-   "Id": 7,
-   "Type": "Misc",
-   "OriginalURL": "https://downshiftology.com/recipes/falafel/",
-   "Ingredients": [
-      "1 cup dried chickpeas, soaked overnight",
-      "½ cup onion, roughly chopped",
-      "1 cup parsley, roughly chopped",
-      "1 cup cilantro, roughly chopped",
-      "1 small green chile pepper, serrano or jalapeno pepper",
-      "3 garlic cloves",
-      "1 tsp cumin",
-      "1 tsp salt",
-      "½ tsp cardamom",
-      "¼ tsp black pepper",
-      "2 tbsp chickpea flour",
-      "½ tsp baking soda"
+ "Title": "Easiest Focaccia Bread Recipe",
+ "Id": 4,
+ "Type": "Bread",
+ "OriginalURL": "https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/",
+ "Ingredients": [
+    "512 g all-purpose flour or bread flour",
+    "2 tsp kosher salt",
+    "2 tsp instant yeast",
+    "455 g lukewarm water",
+    "butter for greasing",
+    "4 Tbsp olive oil, divided",
+    "flaky sea salt, such as Maldon",
+    "1 to 2 tsp whole rosemary leaves, optional"
    ],
-   "Steps": [
-      "The night before, soak the dried chickpeas in water. Make sure the water\ncovers the chickpeas by 2-3 inches, as they'll triple in size.",
-      "Drain and rinse the chickpeas and add them to your food processor, along with the onion, parsley, cilantro, pepper, garlic, cumin, salt, cardamom and black pepper. Pulse the food processor several times until the mixture resembles the texture of coarse sand.",
-      "Transfer the falafel mixture to a bowl and add the chickpea flour and baking\nsoda. Stir together, then cover or add a lid and refrigerate the mixture for 30 minutes to one hour.",
-      "Use your hands, an ice cream scoop or falafel scoop to form the falafel\ninto balls or patties. If you find the mixture is too wet, you can add\nanother tablespoon of chickpea flour. If it's too dry and crumbly, you\ncan add a teaspoon or two of water or lemon juice. ",
-      "Once the falafel are formed, you can cook them by your preferred method\nmentioned above. To deep fry the falafel, add about 3 inches of oil to a pot on medium heat. Heat the oil to 350F. Cook the falafel in batches\n(about 6-8 at a time) for 1-2 minutes or until golden. ",
-      "Use a skimmer to check the color of the falafel and make sure they don't\nover cook. Then remove them to a paper towel-lined plate. Serve the falafel immediately, while warm and crispy on the outside. They're delicious served with tahini sauce as well."
+ "Steps": [
+    "In a large bowl, whisk together the flour, salt, and instant yeast. Add the water. Using a rubber spatula, mix until the liquid is absorbed and the ingredients form a sticky dough ball. Rub the surface of the dough lightly with olive oil. Cover the bowl with a damp tea towel, cloth bowl cover, or plastic wrap and place in the refrigerator immediately for at least 12 hours or for as long as three days.",
+    "Line two 8- or 9-inch pie plates or a 9×13-inch pan with parchment paper or grease with butter or coat with nonstick cooking spray.",
+    "Pour a tablespoon of oil into the center of each pan or 2 tablespoons of oil. Using two forks, deflate the dough by releasing it from the sides of the bowl and pulling it toward the center. Rotate the bowl in quarter turns as you deflate, turning the mass into a rough ball. Use the forks to split the dough into two equal pieces (or do not split if using the 9×13-inch pan). Place one piece into one of the prepared pans. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining piece. Let the dough balls rest for 3 to 4 hours depending on the temperature of your kitchen (Note: no need to cover for this room temperature rise).",
+    "Set a rack in the middle of the oven and preheat it to 425°F. If using the rosemary, sprinkle it over the dough. Pour a tablespoon of oil over each round of dough (or two tablespoons if using a 9×13-inch pan). Rub your hands lightly in the oil to coat, then, using all of your fingers, press straight down to create deep dimples. If necessary, gently stretch the dough as you dimple to allow the dough to fill the pan. Sprinkle with flaky sea salt all over.",
+    "Transfer the pans or pan to the oven and bake for 25 to 30 minutes, until the underside is golden and crisp. Remove the pans or pan from the oven and transfer the focaccia to a \ncooling rack. Let it cool for 10 minutes before cutting and serving."
    ]
 },
  {
-   "Title": "Fennel Shakshuka",
-   "Id": 0,
-   "Type": "Breakfast",
-   "OriginalURL": "http://shemeshkitchen.com/not-shakshuka/",
-   "Ingredients": [
-      "4 eggs",
-      "10-12 cherry tomatoes, quartered",
-      "½ fennel, finely sliced",
-      "1 stalk lemongrass, bashed and finely chopped",
-      "5-7 anchovy fillets",
-      "1 sprig rosemary, leaves finely chopped",
-      "1 hot green chili (optional)",
-      "Vermouth or Pernod",
-      "capers, roughly chopped",
-      "handful dill, chopped",
-      "olive oil",
-      "flaky salt"
+ "Title": "Eggplant Tarte Tatin With Feta",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "http://shemeshkitchen.com/eggplant-tarte-tatin-with-feta/",
+ "Ingredients": [
+    "2 globe aubergines, sliced into 2 cm thick slices",
+    "250 g feta",
+    "3 sprigs oregano",
+    "70 g olive oil",
+    "100 g cream cheese",
+    "2 eggs",
+    "3 Tbsp honey",
+    "1-2 dry chilis, crushed",
+    "6-7 filo pastry leaves",
+    "salt"
    ],
-   "Steps": [
-      "In a large pan, heat olive oil, add the anchovy and break down slightly with a wooden spoon.",
-      "Add the rosemary, lemongrass and chili and saute for 1-2 minutes to infuse the flavours in the oil. Add the fennel and continue sauteing for about 3 minutes. Add the pernod and tilt towards the flame (or use a lighter if cooking on induction), continue cooking for 2 minutes after the fire has died down to soften the fennel. Add the tomatoes and capers, cooking for about 3 minutes longer to allow them to break down a little.",
-      "Lower the heat and break in the eggs, seasoning them with salt (the rest should be salty enough thanks to the anchovy).",
-      "Cook for about 5 minutes, use the spoon to assure no parts of white remain uncooked. You want cooked white and runny yolk (unless you want something else, but in that case you're on your own). Finish with chopped dill and a drizzle of olive oil."
+ "Steps": [
+    "If using baby eggplants, cut off a tiny bit of skin on either side of the eggplants. That will allow them to cook more evenly. Remove the stalk and cut them in half lengthwise. Salt the eggplants generously and let them steep for 20 minutes.",
+    "Crumble your feta, add oregano leaves, about 20 g of olive oil, cream cheese, and eggs, and whisk well. Little lumps are ok, but the mixture should be creamy and spreadable.",
+    "Pat dry the eggplants with paper towels. Heat about half of the remaining olive oil in a large pan. Sauté the eggplants on both sides until well brown and softened, about 3 minutes per side. Remove from the pan and set aside. In a small saucepan, heat 3 Tbsp of water. Add the honey and bring to a simmer. Crumble in the chili, add a bit of salt, bring to a quick boil, and remove from the heat.",
+    "In a small saucepan, heat 3 Tbsp of water. Add the honey and bring to a simmer. Crumble in the chili, add a bit of salt, bring to a quick boil, and remove from the heat.",
+    "Preheat the oven to 200℃. In an oven-proof pan, add about a third of the honey syrup. Arrange the eggplants in an even layer to fill the bottom of the entire pan. Pour over the rest of the honey syrup. Spread the feta mix in an even layer on top of the eggplants. Add 1 leaf of filo pastry, brush gently with olive oil, then add the next leaf. Brush with oil and repeat 6 or 7 times, brushing the top layer.",
+    "Bake for about 20-25 minutes, until the pastry is golden brown and the syrup and cheese are bubbling and caramelized on the sides. Allow to cool for 10 minutes, then flip to a serving plate. Sprinkle with some oregano leaves and salt."
    ]
 },
  {
-   "Title": "Fennel Syrup French 75 (V)",
-   "Id": 6,
-   "Type": "Beverage",
-   "OriginalURL": "https://www.instagram.com/p/Cac0dARvipU/",
-   "Ingredients": [
-      "1-2 cups of finely chopped fennel stalks",
-      "1 cup sugar",
-      "1 cup water",
-      "1 oz gin",
-      "*½ oz fennel simple syrup",
-      "½ small lemon juiced (½ oz)",
-      "Champagne or other sparkling wine"
-   ]
-},
- {
-   "Title": "Fluffy Pancakes (V)",
-   "Id": 0,
-   "Type": "Breakfast",
-   "OriginalURL": "https://tasty.co/recipe/the-fluffiest-vegan-pancakes",
-   "Ingredients": [
-      "125 g flour",
-      "2 tbsp sugar",
-      "1 tbsp baking powder",
-      "½ tsp salt",
-      "240 mL non-dairy milk ",
-      "1 tbsp apple cider vinegar",
-      "1 tsp vanilla",
-      "maple syrup, to serve"
+ "Title": "Falafels (V)",
+ "Id": 7,
+ "Type": "Misc",
+ "OriginalURL": "https://downshiftology.com/recipes/falafel/",
+ "Ingredients": [
+    "1 cup dried chickpeas, soaked overnight",
+    "½ cup onion, roughly chopped",
+    "1 cup parsley, roughly chopped",
+    "1 cup cilantro, roughly chopped",
+    "1 small green chile pepper, serrano or jalapeno pepper",
+    "3 garlic cloves",
+    "1 tsp cumin",
+    "1 tsp salt",
+    "½ tsp cardamom",
+    "¼ tsp black pepper",
+    "2 Tbsp chickpea flour",
+    "½ tsp baking soda"
    ],
-   "Steps": [
-      "In a bowl, add the flour, sugar, baking powder, and salt, and stir to combine.",
-      "In another bowl, add almond milk, apple cider vinegar, and vanilla, and stir to combine. Pour the liquid mixture into the dry mixture and whisk until smooth. Let batter rest for 5 minutes.",
-      "Pour about ½ cup of batter onto a nonstick pan or griddle over medium heat. When the top begins to bubble, flip the pancake and cook until golden. Serve warm with maple syrup."
+ "Steps": [
+    "The night before, soak the dried chickpeas in water. Make sure the water\ncovers the chickpeas by 2-3 inches, as they'll triple in size.",
+    "Drain and rinse the chickpeas and add them to your food processor, along with the onion, parsley, cilantro, pepper, garlic, cumin, salt, cardamom and black pepper. Pulse the food processor several times until the mixture resembles the texture of coarse sand.",
+    "Transfer the falafel mixture to a bowl and add the chickpea flour and baking\nsoda. Stir together, then cover or add a lid and refrigerate the mixture for 30 minutes to one hour.",
+    "Use your hands, an ice cream scoop or falafel scoop to form the falafel\ninto balls or patties. If you find the mixture is too wet, you can add\nanother tablespoon of chickpea flour. If it's too dry and crumbly, you\ncan add a teaspoon or two of water or lemon juice.",
+    "Once the falafel are formed, you can cook them by your preferred method\nmentioned above. To deep fry the falafel, add about 3 inches of oil to a pot on medium heat. Heat the oil to 350F. Cook the falafel in batches\n(about 6-8 at a time) for 1-2 minutes or until golden.",
+    "Use a skimmer to check the color of the falafel and make sure they don't\nover cook. Then remove them to a paper towel-lined plate. Serve the falafel immediately, while warm and crispy on the outside. They're delicious served with tahini sauce as well."
    ]
 },
  {
-   "Title": "Garam Masala",
-   "Id": 7,
-   "Type": "Misc",
-   "OriginalURL": "https://www.daringgourmet.com/garam-masala/#recipe",
-   "Ingredients": [
-      "4 Tbsp coriander seeds",
-      "4 tsp cumin seeds",
-      "1 tsp fennel seeds",
-      "1 tsp black peppercorns",
-      "1 tsp green cardamom seeds",
-      "½ tsp black cardamom seeds",
-      "1 stick cinnamon , about 3 inches",
-      "2 star anise",
-      "8 whole cloves",
-      "½ tsp freshly ground nutmeg",
-      "¼ tsp ground mace (optional)",
-      "2 dried curry leaves or one large bay leaf"
+ "Title": "Fennel Shakshuka",
+ "Id": 0,
+ "Type": "Breakfast",
+ "OriginalURL": "http://shemeshkitchen.com/not-shakshuka/",
+ "Ingredients": [
+    "4 eggs",
+    "10-12 cherry tomatoes, quartered",
+    "½ fennel, finely sliced",
+    "1 stalk lemongrass, bashed and finely chopped",
+    "5-7 anchovy fillets",
+    "1 sprig rosemary, leaves finely chopped",
+    "1 hot green chili (optional)",
+    "Vermouth or Pernod",
+    "capers, roughly chopped",
+    "handful dill, chopped",
+    "olive oil",
+    "flaky salt"
    ],
-   "Steps": [
-      "Place the whole spices (reserving the ground nutmeg and mace) in a dry skillet and toast them over medium-high heat for several minutes, stirring frequently, until the spices are very fragrant and the lighter spices have become deeper golden in color. Be careful not toscorch the spices or they will become very bitter.",
-      "Transfer the toasted spices to a bowl and let them cool completely.Place the cooled spices in a coffee grinder or a blender along with the ground nutmeg and mace. It is easiest to grind the cinnamon if you break it into pieces.",
-      "Grind the spices until you get a fine powder. Transfer the garam masala to an airtight jar and store in a dark place. This makes roughly 1/2 cup of garam masala."
+ "Steps": [
+    "In a large pan, heat olive oil, add the anchovy and break down slightly with a wooden spoon.",
+    "Add the rosemary, lemongrass and chili and saute for 1-2 minutes to infuse the flavours in the oil. Add the fennel and continue sauteing for about 3 minutes. Add the pernod and tilt towards the flame (or use a lighter if cooking on induction), continue cooking for 2 minutes after the fire has died down to soften the fennel. Add the tomatoes and capers, cooking for about 3 minutes longer to allow them to break down a little.",
+    "Lower the heat and break in the eggs, seasoning them with salt (the rest should be salty enough thanks to the anchovy).",
+    "Cook for about 5 minutes, use the spoon to assure no parts of white remain uncooked. You want cooked white and runny yolk (unless you want something else, but in that case you're on your own). Finish with chopped dill and a drizzle of olive oil."
    ]
 },
  {
-   "Title": "Green Sauce Pasta (V)",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.instagram.com/p/CYoywRal9CL/",
-   "Ingredients": [
-      "1lbs pasta of choice  ",
-      "3 tbsp olive oil, separated  ",
-      "2 tbsp vegan or regular butter, separated ",
-      "1 tsp thyme  ",
-      "1 shallot, finely minced  ",
-      "2 garlic cloves, finely minced  ",
-      "1 cup mushrooms, finely minced  ",
-      "2 stalks greens onions, finely minced  ",
-      "½ cup kale, roughly chopped",
-      "2 cups spinach  ",
-      "¼ cup pine nuts  ",
-      "Zest and juice of one lemon  ",
-      "½ cup pasta water  ",
-      "1 tsp kosher salt   "
+ "Title": "Fennel Syrup French 75 (V)",
+ "Id": 6,
+ "Type": "Beverage",
+ "OriginalURL": "https://www.instagram.com/p/Cac0dARvipU/",
+ "Ingredients": [
+    "1-2 cups of finely chopped fennel stalks",
+    "1 cup sugar",
+    "1 cup water",
+    "1 oz gin",
+    "*½ oz fennel simple syrup",
+    "½ small lemon juiced (½ oz)",
+    "Champagne or other sparkling wine"
+   ]
+},
+ {
+ "Title": "Fluffy Pancakes (V)",
+ "Id": 0,
+ "Type": "Breakfast",
+ "OriginalURL": "https://tasty.co/recipe/the-fluffiest-vegan-pancakes",
+ "Ingredients": [
+    "125 g flour",
+    "2 Tbsp sugar",
+    "1 Tbsp baking powder",
+    "½ tsp salt",
+    "240 mL non-dairy milk",
+    "1 Tbsp apple cider vinegar",
+    "1 tsp vanilla",
+    "maple syrup, to serve"
    ],
-   "Steps": [
-      "Bring a large pot of salted water to a rolling boil, and cook pasta according to package instructions. ",
-      "In a large skillet, add 1 tbsp olive oil, 1 tbsp butter, thyme, shallot, garlic, mushrooms, green onions, and kale. Cook on low for 6-7 minutes, until soft.",
-      "Add spinach, pine nuts, zest and juice of one lemon, and salt to a blender or food processor. Blend until incorporated.",
-      "Add the cooked mixture to the blender and blend until smooth-ish. Drizzle in remaining olive oil, remaining butter, and 1/2 cup of pasta water. Blend until smooth and silky. ",
-      "Once your pasta is cooked, saturate your pasta in sauce, and top with loads of black pepper, grated cashew, parmesan and/or chili oil."
+ "Steps": [
+    "In a bowl, add the flour, sugar, baking powder, and salt, and stir to combine.",
+    "In another bowl, add almond milk, apple cider vinegar, and vanilla, and stir to combine. Pour the liquid mixture into the dry mixture and whisk until smooth. Let batter rest for 5 minutes.",
+    "Pour about ½ cup of batter onto a nonstick pan or griddle over medium heat. When the top begins to bubble, flip the pancake and cook until golden. Serve warm with maple syrup."
    ]
 },
  {
-   "Title": "Green Tahini (V)",
-   "Id": 5,
-   "Type": "Condiment",
-   "OriginalURL": "https://minimalistbaker.com/herby-green-tahini-sauce/",
-   "Ingredients": [
-      "⅓-½ cup tahini",
-      "½ cup loosely packed fresh parsley",
-      "¼ cup fresh cilantro",
-      "¼-⅓ cup water",
-      "Juice of ½ lemon",
-      "2 Tbsp olive oil",
-      "1 tsp honey",
-      "½ tsp sea salt",
-      "1 large clove garlic, peeled and smashed"
+ "Title": "Garam Masala",
+ "Id": 7,
+ "Type": "Misc",
+ "OriginalURL": "https://www.daringgourmet.com/garam-masala/#recipe",
+ "Ingredients": [
+    "4 Tbsp coriander seeds",
+    "4 tsp cumin seeds",
+    "1 tsp fennel seeds",
+    "1 tsp black peppercorns",
+    "1 tsp green cardamom seeds",
+    "½ tsp black cardamom seeds",
+    "1 stick cinnamon , about 3 inches",
+    "2 star anise",
+    "8 whole cloves",
+    "½ tsp freshly ground nutmeg",
+    "*¼ tsp ground mace",
+    "2 dried curry leaves or one large bay leaf"
    ],
-   "Steps": [
-      "Add all ingredients to a high-speed blender and blend until smooth, scraping down the sides as needed."
+ "Steps": [
+    "Place the whole spices (reserving the ground nutmeg and mace) in a dry skillet and toast them over medium-high heat for several minutes, stirring frequently, until the spices are very fragrant and the lighter spices have become deeper golden in color. Be careful not toscorch the spices or they will become very bitter.",
+    "Transfer the toasted spices to a bowl and let them cool completely.Place the cooled spices in a coffee grinder or a blender along with the ground nutmeg and mace. It is easiest to grind the cinnamon if you break it into pieces.",
+    "Grind the spices until you get a fine powder. Transfer the garam masala to an airtight jar and store in a dark place. This makes roughly ½ cup of garam masala."
    ]
 },
  {
-   "Title": "Malabi With Rhubarb And Strawberries (V)",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "http://shemeshkitchen.com/vegan-malabi-with-rhubarb-and-strawberries-2/#recipe",
-   "Ingredients": [
-      "400 g coconut milk",
-      "40 g cornstarch",
-      "40 g sugar",
-      "20 g orange blossom water or rosewater",
-      "300 g rhubarb, roughly chopped ",
-      "80 g sugar"
+ "Title": "Green Sauce Pasta (V)",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://www.instagram.com/p/CYoywRal9CL/",
+ "Ingredients": [
+    "1 lbs pasta of choice",
+    "3 Tbsp olive oil, separated",
+    "2 Tbsp vegan or regular butter, separated",
+    "1 tsp thyme",
+    "1 shallot, finely minced",
+    "2 garlic cloves, finely minced",
+    "1 cup mushrooms, finely minced",
+    "2 stalks greens onions, finely minced",
+    "½ cup kale, roughly chopped",
+    "2 cups spinach",
+    "¼ cup pine nuts",
+    "Zest and juice of one lemon",
+    "½ cup pasta water",
+    "1 tsp kosher salt"
    ],
-   "Steps": [
-      "Whisk all together, place in a saucepan, and bring to a boil, constantly whisking (more once it starts getting hotter. Make sure to scrape the bottom of the pan to avoid lumps). Put in small bowls or ramekins and cover with foil (make sure the foil touches the malabi). Let cool and harden in the fridge for about an hour.",
-      "For the compote, simmer rhubarb and sugar together in a covered pot for about 15 minutes, until the rhubarb is completely softened and breaks apart. Let cool before serving.",
-      "To serve, scrape around the edges of the ramekins to loosen the malabi mass and turn each of them onto a plate. You might have to wobble and tap the ramekin if the malabi won’t come out. Serve with compote. "
+ "Steps": [
+    "Bring a large pot of salted water to a rolling boil, and cook pasta according to package instructions.",
+    "In a large skillet, add 1 Tbsp olive oil, 1 Tbsp butter, thyme, shallot, garlic, mushrooms, green onions, and kale. Cook on low for 6-7 minutes, until soft.",
+    "Add spinach, pine nuts, zest and juice of one lemon, and salt to a blender or food processor. Blend until incorporated.",
+    "Add the cooked mixture to the blender and blend until smooth-ish. Drizzle in remaining olive oil, remaining butter, and ½ cup of pasta water. Blend until smooth and silky.",
+    "Once your pasta is cooked, saturate your pasta in sauce, and top with loads of black pepper, grated cashew, parmesan and/or chili oil."
    ]
 },
  {
-   "Title": "Matcha Lemon Cranberry Muffins (V)",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "https://www.beautifuleatsandthings.com/2018/03/16/light-and-fluffy-matcha-lemon-muffins/",
-   "Ingredients": [
-      "1 ¾ cups flour",
-      "1 tbsp baking powder",
-      "1 ¼ tbsp matcha powder",
-      "½ tsp salt",
-      "½ cup + 1 tbsp cup sugar",
-      "¾ cup unsweeteneplant-based milk",
-      "2 tsp vanilla extract",
-      "¼ cup coconut oil",
-      "1 flax egg",
-      "Juice + zest of 1 lemon",
-      "1 cup fresh cranberries"
+ "Title": "Green Tahini (V)",
+ "Id": 5,
+ "Type": "Condiment",
+ "OriginalURL": "https://minimalistbaker.com/herby-green-tahini-sauce/",
+ "Ingredients": [
+    "⅓-½ cup tahini",
+    "½ cup loosely packed fresh parsley",
+    "¼ cup fresh cilantro",
+    "¼-⅓ cup water",
+    "Juice of ½ lemon",
+    "2 Tbsp olive oil",
+    "1 tsp honey",
+    "½ tsp sea salt",
+    "1 large clove garlic, peeled and smashed"
    ],
-   "Steps": [
-      "Pre-heat oven to 400°F degrees.",
-      "In a large bowl, combine flour, baking powder, matcha, salt, and sugar. Set aside.",
-      "In a medium bowl, mix together milk, vanilla, egg, oil, lemon juice, and lemon zest.",
-      "Add wet ingredients to the dry ingredients and stir until combined but be careful not to over-stir. Over-stirring will result in tough, dense muffins.",
-      "Add muffins liners to muffin tins or spray tins with non-stick cooking spray.",
-      "Distribute the batter evenly into the muffin tins and bake for approximately 15-17 minutes or until fork comes out clean. Transfer to wire rack and let cool."
+ "Steps": [
+    "Add all ingredients to a high-speed blender and blend until smooth, scraping down the sides as needed."
    ]
 },
  {
-   "Title": "Mediterranean Roasted Artichoke (V)",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "https://www.themediterraneandish.com/mediterranean-roasted-artichoke-recipe/",
-   "Ingredients": [
-      "3 large globe artichokes",
-      "3 tsp lemon juice",
-      "Salt and black pepper",
-      "Extra virgin olive oil",
-      "6 garlic cloves, peeled",
-      "1 small shallot, thinly sliced",
-      "1 tbsp capers",
-      "Crumbled feta cheese to taste",
-      "Same 6 garlic cloves roasted earlier with the artichoke",
-      "½ cup chopped fresh dill",
-      "¼ cup fresh lemon juice",
-      "1 tsp honey",
-      "Salt and Black Pepper"
+ "Title": "Malabi With Rhubarb And Strawberries (V)",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "http://shemeshkitchen.com/vegan-malabi-with-rhubarb-and-strawberries-2/#recipe",
+ "Ingredients": [
+    "400 g coconut milk",
+    "40 g cornstarch",
+    "40 g sugar",
+    "20 g orange blossom water or rosewater",
+    "300 g rhubarb, roughly chopped",
+    "80 g sugar"
    ],
-   "Steps": [
-      "Preheat oven to 400 degrees F.",
-      "Cut off the stem of the artichokes. Peel off the tough outer layers by hand. When you reach the softer layers, use a serrated knife to cut off about ¾ inches from the top. Now, cut the artichoke in half length-wise. Using a spoon, remove the fuzzy choke on the inside. Once cleaned, brush their surface with ½ teaspoon lemon juice to prevent them from discoloring.",
-      "On a large baking sheet, place each artichoke half in a piece of lightly-oiled foil paper large enough to fold around. Nestle 1 garlic clove in the center of each artichoke half before sprinkling with salt and pepper. Drizzle generously olive oil and close the foil around the artichokes. Roast in the oven for 40 minutes.",
-      "Carefully open the foil pouches using tongs. Remove the roasted garlic from the center of artichoke, and close the foils back until ready to serve. Let garlic cool.",
-      "In a small food processor, add the roasted garlic with the remaining vinaigrette ingredients. Pulse until smooth.",
-      "Remove the artichokes from foil. Arrange on a serving platter, generously drizzle the roasted garlic-dill vinaigrette. Top with shallots, capers and crumbled feta cheese."
+ "Steps": [
+    "Whisk all together, place in a saucepan, and bring to a boil, constantly whisking (more once it starts getting hotter. Make sure to scrape the bottom of the pan to avoid lumps). Put in small bowls or ramekins and cover with foil (make sure the foil touches the malabi). Let cool and harden in the fridge for about an hour.",
+    "For the compote, simmer rhubarb and sugar together in a covered pot for about 15 minutes, until the rhubarb is completely softened and breaks apart. Let cool before serving.",
+    "To serve, scrape around the edges of the ramekins to loosen the malabi mass and turn each of them onto a plate. You might have to wobble and tap the ramekin if the malabi won’t come out. Serve with compote."
    ]
 },
  {
-   "Title": "Mini Spinach Crêpes With Corn",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "http://shemeshkitchen.com/mini-spinach-crepes-with-corn-topping/#recipe",
-   "Ingredients": [
-      "1 tbsp olive oil",
-      "1 garlic clove, finely sliced",
-      "500 g fresh spinach",
-      "100 g flour",
-      "1 egg",
-      "50-100 g water",
-      "2 ice cubes",
-      "½ lemon zest",
-      "½ tsp cumin seeds",
-      "2 tbsp neutral oil",
-      "2 ears of corn",
-      "½ tsp smoked paprika powder",
-      "2 small red onions",
-      "2 handfuls of cherry tomatoes",
-      "1 red chili sliced",
-      "1 pinch of cumin",
-      "30 g tequila",
-      "100 g sour cream"
+ "Title": "Matcha Lemon Cranberry Muffins (V)",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://www.beautifuleatsandthings.com/2018/03/16/light-and-fluffy-matcha-lemon-muffins/",
+ "Ingredients": [
+    "1 ¾ cups flour",
+    "1 Tbsp baking powder",
+    "1 ¼ Tbsp matcha powder",
+    "½ tsp salt",
+    "½ cup + 1 Tbsp cup sugar",
+    "¾ cup unsweeteneplant-based milk",
+    "2 tsp vanilla extract",
+    "¼ cup coconut oil",
+    "1 flax egg",
+    "Juice + zest of 1 lemon",
+    "1 cup fresh cranberries"
    ],
-   "Steps": [
-      "Sauté garlic in olive oil for about one minute until fragrant. Add spinach and salt, cover, and cook until wilted, about 3 minutes.",
-      "Transfer into a blender, add ice cubes and lemon zest, and blend until smooth. Mix flour, egg, and water as needed for a runny dough in a bowl.",
-      "Heat a little oil in a pan and wipe it with a paper towel. Add a ladleful at a time of the crepe dough and spread it around a bit to make it flat. Cook for about 3 minutes on each side.",
-      "Put the corn In a pot full of boiling salt water, cover it, and let it steam for 10 minutes. Cut the kernels off.",
-      "Toast cumin seeds in a large pan until fragrant. Add oil, onions, chili, and saute for 3-4 minutes. Turn up the heat, then add corn and paprika powder. Sear for 3 minutes, then add tomatoes and salt. Add tequila and try to set the whole thing on fire. Cook for 1-3 minutes longer.",
-      "Spread sour cream on the crepes, add a couple of spoonfuls of the corn-tomato thing, and finish with fresh oregano."
+ "Steps": [
+    "Pre-heat oven to 400°F degrees.",
+    "In a large bowl, combine flour, baking powder, matcha, salt, and sugar. Set aside.",
+    "In a medium bowl, mix together milk, vanilla, egg, oil, lemon juice, and lemon zest.",
+    "Add wet ingredients to the dry ingredients and stir until combined but be careful not to over-stir. Over-stirring will result in tough, dense muffins.",
+    "Add muffins liners to muffin tins or spray tins with non-stick cooking spray.",
+    "Distribute the batter evenly into the muffin tins and bake for approximately 15-17 minutes or until fork comes out clean. Transfer to wire rack and let cool."
    ]
 },
  {
-   "Title": "Nectarine Gazpacho With Celery Sorbet (V)",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "http://shemeshkitchen.com/nectarine-gazpacho-with-celery-sorbet-2/#recipe",
-   "Ingredients": [
-      "1 kg nectarines",
-      "5 medium-sized tomatoes",
-      "2 small cucumbers",
-      "1 stalk celery",
-      "½ fennel",
-      "1 red onion",
-      "1 clove garlic",
-      "1 red chili",
-      "1 lemon zest and juice",
-      "2 stalks lemongrass",
-      "1 stalk rosemary",
-      "a bit of sherry vinegar",
-      "a lot of olive oil",
-      "500 g celery",
-      "1 bunch fresh mint",
-      "1 jalapeño",
-      "2 limes zest and juice",
-      "125 ml water",
-      "125 g sugar"
+ "Title": "Mediterranean Roasted Artichoke (V)",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://www.themediterraneandish.com/mediterranean-roasted-artichoke-recipe/",
+ "Ingredients": [
+    "3 large globe artichokes",
+    "3 tsp lemon juice",
+    "Salt and black pepper",
+    "Extra virgin olive oil",
+    "6 garlic cloves, peeled",
+    "1 small shallot, thinly sliced",
+    "1 Tbsp capers",
+    "Crumbled feta cheese to taste",
+    "Same 6 garlic cloves roasted earlier with the artichoke",
+    "½ cup chopped fresh dill",
+    "¼ cup fresh lemon juice",
+    "1 tsp honey",
+    "Salt and Black Pepper"
    ],
-   "Steps": [
-      "For the gazpacho, chop all the veggies, lemongrass, onion, garlic, and rosemary and put them in a large bowl. Add lemon zest and lemon juice, olive oil, sherry vinegar, salt, and pepper and mix well with hands. Squeeze all the juices out of the veggies. Let sit and marinate for about 30 minutes. Blend everything until very smooth, then pass through a sieve. Let sit in the fridge for a bit, so the gazpacho is nice and cold.",
-      "For the sorbet, heat up water and sugar and let them boil until sugar is completely dissolved. Set aside and let cool completely. Add chopped celery (stalks and leaves), chopped jalapeño, lime zest, lime juice, and the cooled syrup in a food processor and mix until you get a fine pulp. Pass through a fine sieve. Keep the liquid and compost the pulp. Put the liquid in a flat container and scrape it with a fork for a granita-like consistency."
+ "Steps": [
+    "Preheat oven to 400 degrees F.",
+    "Cut off the stem of the artichokes. Peel off the tough outer layers by hand. When you reach the softer layers, use a serrated knife to cut off about ¾ inches from the top. Now, cut the artichoke in half length-wise. Using a spoon, remove the fuzzy choke on the inside. Once cleaned, brush their surface with ½ teaspoon lemon juice to prevent them from discoloring.",
+    "On a large baking sheet, place each artichoke half in a piece of lightly-oiled foil paper large enough to fold around. Nestle 1 garlic clove in the center of each artichoke half before sprinkling with salt and pepper. Drizzle generously olive oil and close the foil around the artichokes. Roast in the oven for 40 minutes.",
+    "Carefully open the foil pouches using tongs. Remove the roasted garlic from the center of artichoke, and close the foils back until ready to serve. Let garlic cool.",
+    "In a small food processor, add the roasted garlic with the remaining vinaigrette ingredients. Pulse until smooth.",
+    "Remove the artichokes from foil. Arrange on a serving platter, generously drizzle the roasted garlic-dill vinaigrette. Top with shallots, capers and crumbled feta cheese."
    ]
 },
  {
-   "Title": "Oat and Buckwheat Chocolate Chip Cookies (V + GF)",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "https://everydaypie.com/oat-and-buckwheat-chocolate-chip-cookies/",
-   "Ingredients": [
-      "½ cup unsalted butter, diced",
-      "100 g granulated sugar",
-      "100 g brown sugar ",
-      "¾ tsp salt",
-      "1 flax egg (1 Tbsp flaxseed powder + 3 Tbsp water)",
-      "60 mL plant-based milk",
-      "1 tsp vanilla extract",
-      "180 g buckwheat flour",
-      "120 g oat flour",
-      "1 tsp baking soda",
-      "125g dark chocolate chips "
+ "Title": "Mini Spinach Crêpes With Corn",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "http://shemeshkitchen.com/mini-spinach-crepes-with-corn-topping/#recipe",
+ "Ingredients": [
+    "1 Tbsp olive oil",
+    "1 garlic clove, finely sliced",
+    "500 g fresh spinach",
+    "100 g flour",
+    "1 egg",
+    "50-100 g water",
+    "2 ice cubes",
+    "½ lemon zest",
+    "½ tsp cumin seeds",
+    "2 Tbsp neutral oil",
+    "2 ears of corn",
+    "½ tsp smoked paprika powder",
+    "2 small red onions",
+    "2 handfuls of cherry tomatoes",
+    "1 red chili sliced",
+    "1 pinch of cumin",
+    "30 g tequila",
+    "100 g sour cream"
    ],
-   "Steps": [
-      "Preheat oven to 350º and line two baking sheets with parchment paper.",
-      "Brown the butter. Once ready, immediately turn off the heat, pour all of the butter, including the browned bits into a heat proof bowl.",
-      "While the butter is still hot, add the granulated sugar, brown sugar and salt to it, and whisk together. Next add in the egg and whisk together, until the mixture is shiny.",
-      "Add the milk and the vanilla and whisk until smooth. Then, add in the buckwheat flour, oat flour, and baking soda and mix together until fully combined. Fold in the chocolate chips.",
-      "Scoop and roll dough into balls about 2 tablespoons in size and place about 11, evenly spaced apart on each baking sheet. ",
-      "Bake in the preheated oven for 9-11 minutes, or until the cookies are puffed up. Let the cookies cool for at least 30 minutes and serve."
+ "Steps": [
+    "Sauté garlic in olive oil for about one minute until fragrant. Add spinach and salt, cover, and cook until wilted, about 3 minutes.",
+    "Transfer into a blender, add ice cubes and lemon zest, and blend until smooth. Mix flour, egg, and water as needed for a runny dough in a bowl.",
+    "Heat a little oil in a pan and wipe it with a paper towel. Add a ladleful at a time of the crepe dough and spread it around a bit to make it flat. Cook for about 3 minutes on each side.",
+    "Put the corn In a pot full of boiling salt water, cover it, and let it steam for 10 minutes. Cut the kernels off.",
+    "Toast cumin seeds in a large pan until fragrant. Add oil, onions, chili, and saute for 3-4 minutes. Turn up the heat, then add corn and paprika powder. Sear for 3 minutes, then add tomatoes and salt. Add tequila and try to set the whole thing on fire. Cook for 1-3 minutes longer.",
+    "Spread sour cream on the crepes, add a couple of spoonfuls of the corn-tomato thing, and finish with fresh oregano."
    ]
 },
  {
-   "Title": "Opera",
-   "Id": 3,
-   "Type": "Sweets",
-   "Ingredients": [
-      "4 eggs ",
-      "125 g powdered sugar",
-      "125 g almond flour",
-      "20 g butter, melted",
-      "3 egg whites",
-      "30 g white flour",
-      "4 egg yolks",
-      "100 g powdered sugar",
-      "30 ml mineral water",
-      "160 g butter, creamed",
-      "3 Tbsp coffee extract",
-      "80 ml coffee",
-      "50 g powdered sugar",
-      "120 g dark chocolate",
-      "120 ml full fat cream",
-      "130 g dark chocolate",
-      "15 g neutral oil"
-   ]
-},
- {
-   "Title": "Palak Paneer",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.indianhealthyrecipes.com/palak-paneer-recipe-easy-paneer-recipes-step-by-step-pics/",
-   "Ingredients": [
-      "150 g paneer ",
-      "100-120 g spinach (If using mature spinach, cut stalks and stems)",
-      "2 Tbsp oil (or half oil & half butter)",
-      "2 green chilies, deseeded & chopped",
-      "90 g or 1 small onion, finely chopped",
-      "2 small tomatoes, deseeded & chopped or pureed",
-      "¾ tsp minced garlic",
-      "½ tsp minced ginger",
-      "¾ tsp salt ",
-      "8-10 cashewnuts (or 7 blanched and soaked almonds)",
-      "¾ tsp garam masala ",
-      "½ tsp dried fenugreek leaves (optional)",
-      "¼ cup water (to blend spinach)",
-      "¾ cup water (to cook the gravy)",
-      "3 Tbsp cream (optional)",
-      "⅛ tsp cumin seeds ",
-      "2 green cardamoms pods",
-      "1 in cinnamon stick",
-      "2 cloves"
+ "Title": "Nectarine Gazpacho With Celery Sorbet (V)",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "http://shemeshkitchen.com/nectarine-gazpacho-with-celery-sorbet-2/#recipe",
+ "Ingredients": [
+    "1 kg nectarines",
+    "5 medium-sized tomatoes",
+    "2 small cucumbers",
+    "1 stalk celery",
+    "½ fennel",
+    "1 red onion",
+    "1 clove garlic",
+    "1 red chili",
+    "1 lemon zest and juice",
+    "2 stalks lemongrass",
+    "1 stalk rosemary",
+    "a bit of sherry vinegar",
+    "a lot of olive oil",
+    "500 g celery",
+    "1 bunch fresh mint",
+    "1 jalapeño",
+    "2 limes zest and juice",
+    "125 ml water",
+    "125 g sugar"
    ],
-   "Steps": [
-      "Pluck only the young & tender spinach leaves and discard the stems as they may leave a bitter taste. If using baby spinach you can use the stems as well. Add them to a large pot of water. Rinse them well few times & drain to a colander. Allow the water to drain completely otherwise it will let out lot of moisture while cooking.",
-      "Heat half tbsp oil in a pan. Saute green chilies, cashews and spinach for 3 to 4 mins until the leaves wilt off thoroughly & raw smell of spinach has gone away. Cool this completely. Blend this along with water to a smooth puree. The puree should be smooth and thick. You may add 1 to 2 tbsps more water to help in blending.",
-      "Heat 1 tbsp butter and half tbsp oil to the same pan, Once they melt, add cinnamon, cardamoms, cloves & cumin seeds. When the spices begin to sizzle, add onions and fry till they turn transparent to golden.",
-      "Next saute ginger garlic paste for 1 to 2 minutes or until you begin to smell it nice. Then add tomatoes with salt. Saute until they break down and turn mushy. Add garam masala & saute until the masala smells good. This may take 2 mins. Pour water and cook covered until onions are completely soft. There should be some water left in the pan. ",
-      "Lower the flame, add kasuri methi and pureed spinach. Mix well and cook until it begins to bubble for about 2 to 3 mins. If the curry is too thick you may add a few tbsps of hot water. Avoid overcooking. ",
-      "If using store bought paneer, cube it and add to 2 cups hot water. Keep immersed for 10 mins, then drain. Add paneer & mix well. Turn off and remove to a serving bowl. "
+ "Steps": [
+    "For the gazpacho, chop all the veggies, lemongrass, onion, garlic, and rosemary and put them in a large bowl. Add lemon zest and lemon juice, olive oil, sherry vinegar, salt, and pepper and mix well with hands. Squeeze all the juices out of the veggies. Let sit and marinate for about 30 minutes. Blend everything until very smooth, then pass through a sieve. Let sit in the fridge for a bit, so the gazpacho is nice and cold.",
+    "For the sorbet, heat up water and sugar and let them boil until sugar is completely dissolved. Set aside and let cool completely. Add chopped celery (stalks and leaves), chopped jalapeño, lime zest, lime juice, and the cooled syrup in a food processor and mix until you get a fine pulp. Pass through a fine sieve. Keep the liquid and compost the pulp. Put the liquid in a flat container and scrape it with a fork for a granita-like consistency."
    ]
 },
  {
-   "Title": "Pomegranate-Chipotle BBQ Sauce (V)",
-   "Id": 5,
-   "Type": "Condiment",
-   "Ingredients": [
-      "2 cups pomegranate juice",
-      "¼ cup lemon juice",
-      "¼ cup sugar",
-      "½ cup apple cider vinegar",
-      "¼ cup chipotle peppers, chopped very fine",
-      "1 (15 oz) can tomato sauce",
-      "1 Tbsp yellow mustard",
-      "1 cup brown sugar",
-      "1 tsp salt",
-      "1 tsp onion powder",
-      "1 tsp garlic powder"
+ "Title": "Oat and Buckwheat Chocolate Chip Cookies (V + GF)",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://everydaypie.com/oat-and-buckwheat-chocolate-chip-cookies/",
+ "Ingredients": [
+    "½ cup unsalted butter, diced",
+    "100 g granulated sugar",
+    "100 g brown sugar",
+    "¾ tsp salt",
+    "1 flax egg (1 Tbsp flaxseed powder + 3 Tbsp water)",
+    "60 mL plant-based milk",
+    "1 tsp vanilla extract",
+    "180 g buckwheat flour",
+    "120 g oat flour",
+    "1 tsp baking soda",
+    "125g dark chocolate chips"
    ],
-   "Steps": [
-      "Combine pomegranate juice, lemon juice and sugar in a saucepan over medium-high heat. Bring to a boil, reduce heat and keep at a very strong simmer, stirring occasionally, until the mixture reduces to a syrup consistency that coats your spoon. ",
-      "Add the rest of the ingredients to saucepan, bring back to a boil then reduce heat and simmer until mixture thickens to a bbq sauce consistency."
+ "Steps": [
+    "Preheat oven to 350º and line two baking sheets with parchment paper.",
+    "Brown the butter. Once ready, immediately turn off the heat, pour all of the butter, including the browned bits into a heat proof bowl.",
+    "While the butter is still hot, add the granulated sugar, brown sugar and salt to it, and whisk together. Next add in the egg and whisk together, until the mixture is shiny.",
+    "Add the milk and the vanilla and whisk until smooth. Then, add in the buckwheat flour, oat flour, and baking soda and mix together until fully combined. Fold in the chocolate chips.",
+    "Scoop and roll dough into balls about 2 tablespoons in size and place about 11, evenly spaced apart on each baking sheet.",
+    "Bake in the preheated oven for 9-11 minutes, or until the cookies are puffed up. Let the cookies cool for at least 30 minutes and serve."
    ]
 },
  {
-   "Title": "Preserved Ingredient Cannellini Bean Salad (V)",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "https://www.instagram.com/p/Cm9cWVUocxP/",
-   "Ingredients": [
-      "1 (15 oz) can of cannellini beans ",
-      "4-5 jarred roasted piquillo peppers, sliced",
-      "6-7 jarred quartered and marinated artichoke hearts plus some of the oil",
-      "4-5 guindilla peppers, chopped ",
-      "1 bunch of dill with stems, finely chopped ",
-      "½ preserved lemon, finely chopped (about 1 tbsp)",
-      "1 tbsp mustard",
-      "Squeeze of lemon",
-      "1 tbsp olive oil ",
-      "3 tbsp olive oil",
-      "2 tbsp capers",
-      "1 cup panko breadcrumbs ",
-      "1 cup pistachio slivers or desiccated coconut, grounded"
+ "Title": "Opera",
+ "Id": 3,
+ "Type": "Sweets",
+ "Ingredients": [
+    "4 eggs",
+    "125 g powdered sugar",
+    "125 g almond flour",
+    "20 g butter, melted",
+    "3 egg whites",
+    "30 g white flour",
+    "4 egg yolks",
+    "100 g powdered sugar",
+    "30 ml mineral water",
+    "160 g butter, creamed",
+    "3 Tbsp coffee extract",
+    "80 ml coffee",
+    "50 g powdered sugar",
+    "120 g dark chocolate",
+    "120 ml full fat cream",
+    "130 g dark chocolate",
+    "15 g neutral oil"
    ]
 },
  {
-   "Title": "Puff Pastry ",
-   "Id": 7,
-   "Type": "Misc",
-   "OriginalURL": "https://www.instagram.com/p/Cj8FsA-DTzF/",
-   "Ingredients": [
-      "226 g cold unsalted butter, cut into \nsmall cubes",
-      "240 g all-purpose flour ",
-      "120-150 ml cold water ",
-      "1 tsp kosher salt "
+ "Title": "Palak Paneer",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://www.indianhealthyrecipes.com/palak-paneer-recipe-easy-paneer-recipes-step-by-step-pics/",
+ "Ingredients": [
+    "150 g paneer",
+    "100-120 g spinach (If using mature spinach, cut stalks and stems)",
+    "2 Tbsp oil (or half oil & half butter)",
+    "2 green chilies, deseeded & chopped",
+    "90 g or 1 small onion, finely chopped",
+    "2 small tomatoes, deseeded & chopped or pureed",
+    "¾ tsp minced garlic",
+    "½ tsp minced ginger",
+    "¾ tsp salt",
+    "8-10 cashewnuts (or 7 blanched and soaked almonds)",
+    "¾ tsp garam masala",
+    "½ tsp dried fenugreek leaves (optional)",
+    "¼ cup water (to blend spinach)",
+    "¾ cup water (to cook the gravy)",
+    "* 3 Tbsp cream",
+    "⅛ tsp cumin seeds",
+    "2 green cardamoms pods",
+    "1 in cinnamon stick",
+    "2 cloves"
    ],
-   "Steps": [
-      "In a large mixing bowl, whisk together flour and salt. Toss the cold butter into the flour mixture, pressing the butter cubes into the flour until the mixture looks like wet sand. ",
-      "Add 6 tbsp of water over the mixture and fold the mixture together until it starts to form together. Continue adding water 1 tbsp at a time until a loose and crumbly dough forms. Gently fold the dough a few times until a cohesive mass is formed. ",
-      "Shape into a ½-inch thick square and wrap tightly in plastic wrap. Chill for 1 hour. ",
-      "On a lightly floured surface, roll the chilled dough into a 1/2-inch-thick rectangle. Be sure to keep the dough cold. If at any point the dough sticks or gets soft, put it back in the refrigerator. Fold the dough in thirds like a letter. Turn 90 degrees. Repeat rolling, folding, and rotating 3 more times. Fold back into thirds, wrap tightly, then chill for at least 2 hours or up to 2 days, or placed in a freezer bag and freeze for up to 2 months."
+ "Steps": [
+    "Pluck only the young & tender spinach leaves and discard the stems as they may leave a bitter taste. If using baby spinach you can use the stems as well. Add them to a large pot of water. Rinse them well few times & drain to a colander. Allow the water to drain completely otherwise it will let out lot of moisture while cooking.",
+    "Heat half Tbsp oil in a pan. Saute green chilies, cashews and spinach for 3 to 4 mins until the leaves wilt off thoroughly & raw smell of spinach has gone away. Cool this completely. Blend this along with water to a smooth puree. The puree should be smooth and thick. You may add 1 to 2 Tbsps more water to help in blending.",
+    "Heat 1 Tbsp butter and half Tbsp oil to the same pan, Once they melt, add cinnamon, cardamoms, cloves & cumin seeds. When the spices begin to sizzle, add onions and fry till they turn transparent to golden.",
+    "Next saute ginger garlic paste for 1 to 2 minutes or until you begin to smell it nice. Then add tomatoes with salt. Saute until they break down and turn mushy. Add garam masala & saute until the masala smells good. This may take 2 mins. Pour water and cook covered until onions are completely soft. There should be some water left in the pan.",
+    "Lower the flame, add kasuri methi and pureed spinach. Mix well and cook until it begins to bubble for about 2 to 3 mins. If the curry is too thick you may add a few Tbsps of hot water. Avoid overcooking.",
+    "If using store bought paneer, cube it and add to 2 cups hot water. Keep immersed for 10 mins, then drain. Add paneer & mix well. Turn off and remove to a serving bowl."
    ]
 },
  {
-   "Title": "Ranginak [Persian Date Walnut Dessert] (V)",
-   "Id": 3,
-   "Type": "Sweets",
-   "OriginalURL": "https://www.instagram.com/p/CrJxQTHKed4/",
-   "Ingredients": [
-      "3 tbsp coconut sugar  ",
-      "1 tsp cinnamon  ",
-      "½ tsp cardamom  ",
-      "pinch of salt  ",
-      "25-30 pitted dates  ",
-      "1 cup walnuts  ",
-      "¾ cup (185g) unsalted butter, melted  ",
-      "1 ½ cup oat flour  "
+ "Title": "Pomegranate-Chipotle BBQ Sauce (V)",
+ "Id": 5,
+ "Type": "Condiment",
+ "Ingredients": [
+    "2 cups pomegranate juice",
+    "¼ cup lemon juice",
+    "¼ cup sugar",
+    "½ cup apple cider vinegar",
+    "¼ cup chipotle peppers, chopped very fine",
+    "1 (15 oz) can tomato sauce",
+    "1 Tbsp yellow mustard",
+    "1 cup brown sugar",
+    "1 tsp salt",
+    "1 tsp onion powder",
+    "1 tsp garlic powder"
    ],
-   "Steps": [
-      "Mix the sugar, cinnamon and cardamom in a small bowl and set aside.  ",
-      "In a frying pan, toast the walnuts on medium-high heat, stirring every so often until fragrant (5-8 minutes) and set aside.  ",
-      "In the same pan, switch heat to low and melt the butter. While the butter melts, stuff the dates with the walnuts and arrange at the base of a an 8 inch pie dish or cake pan and pack them in as much as you can.   ",
-      "Go back to the butter, turn the heat to medium-high and combine the flour with a rubber spatula. keep stirring, making sure to scrape the base so it doesn’t burn until it thickens up slightly. Take off the heat when it smells toasty and fragrant.",
-      "Pour the mixture on top of the dates. Let cool for about 5 mins before sprinkling the sugar-cinnamon mixture and carefully spreading with your hands. Sprinkle the ground pistachio on top and press down gently but firmly.  ",
-      "Allow it to cool and set in the fridge for at least an 4 hours before slicing."
+ "Steps": [
+    "Combine pomegranate juice, lemon juice and sugar in a saucepan over medium-high heat. Bring to a boil, reduce heat and keep at a very strong simmer, stirring occasionally, until the mixture reduces to a syrup consistency that coats your spoon.",
+    "Add the rest of the ingredients to saucepan, bring back to a boil then reduce heat and simmer until mixture thickens to a bbq sauce consistency."
    ]
 },
  {
-   "Title": "Rhubarb & Cinnamon Red Lentil Curry (V) ",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.lowlyfood.com/recipe/savoury-rhubarb-and-cinnamon-red-lentil-curry/",
-   "Ingredients": [
-      "200 g rhubarb, very finely sliced",
-      "2 large onions, finely diced",
-      "4 cloves garlic, finely diced",
-      "2 tsp caster sugar",
-      "2 tsp cinnamon",
-      "2 tbsp garam masala",
-      "½ tsp cayenne pepper",
-      "750 ml vegetable stock",
-      "300 g split red lentils",
-      "150 g spinach",
-      "30 g fresh coriander, roughly chopped",
-      "1 tbsp vegetable oil"
-   ],
-   "Steps": [
-      "Heat the tablespoon of vegetable oil in a large saucepan over a medium-high heat. Pour in the chopped onions and garlic. Fry for about 2-3 minutes until the onions are nice and\nsoft.",
-      "Add the 200g of sliced rhubarb into the frying pan along with the 2 tablespoons of garam masala, 2 teaspoons of cinnamon, 2 teaspoons of caster sugar and 1/2 teaspoon of cayenne pepper. Cook for around a minute, stirring well to combine.",
-      "Tip in the 300g red lentils and 750ml of vegetable stock. Bring the pan to the boil, then turn down to a simmer, cover and cook\nfor around 13 – 15 minutes until the lentils are cooked and the stock has reduced to a thick sauce.",
-      "Remove the pan from the heat and season to taste. Then stir in the 150g spinach and 30g chopped coriander. Stir the spinach and coriander until they have wilted sufficiently.",
-      "Serve the curry immediately."
+ "Title": "Preserved Ingredient Cannellini Bean Salad (V)",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://www.instagram.com/p/Cm9cWVUocxP/",
+ "Ingredients": [
+    "1 can (15 oz) of cannellini beans",
+    "4-5 jarred roasted piquillo peppers, sliced",
+    "6-7 jarred quartered and marinated artichoke hearts plus some of the oil",
+    "4-5 guindilla peppers, chopped",
+    "1 bunch of dill with stems, finely chopped",
+    "½ preserved lemon, finely chopped (about 1 Tbsp)",
+    "1 Tbsp mustard",
+    "Squeeze of lemon",
+    "1 Tbsp olive oil",
+    "3 Tbsp olive oil",
+    "2 Tbsp capers",
+    "1 cup panko breadcrumbs",
+    "1 cup pistachio slivers or desiccated coconut, grounded"
    ]
 },
  {
-   "Title": "Sage & Maple Hasselback Butternut Squash ",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "https://www.instagram.com/p/Cjkm0neLXYM/",
-   "Ingredients": [
-      "1 Hasselback Butternut Squash",
-      "122 g butter ",
-      "2 sprigs of sage",
-      "¼ cup maple syrup",
-      "2 tbsp apple cider vinegar",
-      "1 tsp chilli powder",
-      "½ chopped shallot",
-      "1 tsp yellow mustard powder",
-      "1 tsp curry powder",
-      "2 tsp lemon juice",
-      "100 ml cream",
-      "chopped parsley",
-      "thyme sprigs"
+ "Title": "Puff Pastry",
+ "Id": 7,
+ "Type": "Misc",
+ "OriginalURL": "https://www.instagram.com/p/Cj8FsA-DTzF/",
+ "Ingredients": [
+    "226 g cold unsalted butter, cut into \nsmall cubes",
+    "240 g all-purpose flour",
+    "120-150 ml cold water",
+    "1 tsp kosher salt"
    ],
-   "Steps": [
-      "Peeled and slit the squash lengthwise, removing the seeds and cleaning the cavity. Rub it with olive oil and season with salt and pepper. Bake it for 15 minutes at 200C.",
-      "To make the maple glaze, melt 3 tbsp of the butter in a pan, then add the sage. Once it sizzles,  add the maple syrup and the apple cider vinegar and some chilli powder. once this thickened to glaze consistency I removed it from the heat.",
-      "Take the squash out and let it cool a bit. Place two chopsticks along the length of the squash on either side and used a very sharp knife to make the little cuts breadthwise. ",
-      "Brush it with the maple glaze, a pour the rest of the glaze freely before putting it back in the oven for about 30 mins at 210C. Remove the squash from the oven every 10 minutes and baste it with the glaze in the pan. ",
-      "In a non stick pan, put the rest of the butter, the chopped shallot, yellow mustard powder, curry powder and salt and pepper. Cook this on low heat until the butter foamed and then clarified. Add chopped parsley and thyme sprigs. Then, add the lemon juice and the cream."
+ "Steps": [
+    "In a large mixing bowl, whisk together flour and salt. Toss the cold butter into the flour mixture, pressing the butter cubes into the flour until the mixture looks like wet sand.",
+    "Add 6 Tbsp of water over the mixture and fold the mixture together until it starts to form together. Continue adding water 1 Tbsp at a time until a loose and crumbly dough forms. Gently fold the dough a few times until a cohesive mass is formed.",
+    "Shape into a ½-inch thick square and wrap tightly in plastic wrap. Chill for 1 hour.",
+    "On a lightly floured surface, roll the chilled dough into a ½-inch-thick rectangle. Be sure to keep the dough cold. If at any point the dough sticks or gets soft, put it back in the refrigerator. Fold the dough in thirds like a letter. Turn 90 degrees. Repeat rolling, folding, and rotating 3 more times. Fold back into thirds, wrap tightly, then chill for at least 2 hours or up to 2 days, or placed in a freezer bag and freeze for up to 2 months."
    ]
 },
  {
-   "Title": "Savory Delicata Squash and Cream Cheese Galette",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.instagram.com/p/Cj8FsA-DTzF/",
-   "Ingredients": [
-      "1 puff pastry recipe (recipe in MISC section)",
-      "2 small delicata squash, sliced thinly",
-      "one small onion, sliced thinly",
-      "1 tbsp olive oil",
-      "1 tsp garlic powder",
-      "1 tsp onion powder",
-      "1 tsp paprika",
-      "½ tsp kosher salt",
-      "250 g softened cream cheese",
-      "⅓ cup chopped herbs of choice",
-      "1 chipotle",
-      "½ tsp kosher salt"
+ "Title": "Ranginak [Persian Date Walnut Dessert] (V)",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://www.instagram.com/p/CrJxQTHKed4/",
+ "Ingredients": [
+    "3 Tbsp coconut sugar",
+    "1 tsp cinnamon",
+    "½ tsp cardamom",
+    "pinch of salt",
+    "25-30 pitted dates",
+    "1 cup walnuts",
+    "¾ cup (185 g) unsalted butter, melted",
+    "1 ½ cup oat flour"
    ],
-   "Steps": [
-      "Preheat oven to 400 degrees. On a large sheet pan, coat sliced squash and onion with olive oil, garlic powder, onion powder, paprika, and salt. Roast for 20-25 minutes until cooked through. ",
-      "While veggies are cooking, mix together cream cheese, chopped herbs, chipotle, and salt. Set aside. ",
-      "While veggies are cooling, prep you pastry as you would for a galette. Spread 1/2 cup cream cheese mixture on the pastry, and then top with cooled roasted veggies, mounding in the center. Fold the pastry towards the middle, and place in the refrigerator for 30 minutes before baking.",
-      "Bake at 400 degrees for 35-40 minutes, until golden brown."
+ "Steps": [
+    "Mix the sugar, cinnamon and cardamom in a small bowl and set aside.",
+    "In a frying pan, toast the walnuts on medium-high heat, stirring every so often until fragrant (5-8 minutes) and set aside.",
+    "In the same pan, switch heat to low and melt the butter. While the butter melts, stuff the dates with the walnuts and arrange at the base of a an 8 inch pie dish or cake pan and pack them in as much as you can.",
+    "Go back to the butter, turn the heat to medium-high and combine the flour with a rubber spatula. keep stirring, making sure to scrape the base so it doesn’t burn until it thickens up slightly. Take off the heat when it smells toasty and fragrant.",
+    "Pour the mixture on top of the dates. Let cool for about 5 mins before sprinkling the sugar-cinnamon mixture and carefully spreading with your hands. Sprinkle the ground pistachio on top and press down gently but firmly.",
+    "Allow it to cool and set in the fridge for at least an 4 hours before slicing."
    ]
 },
  {
-   "Title": "Shaved Zucchini Salad With Goat Cheese, Apricots, and Za’atar",
-   "Id": 2,
-   "Type": "Sides",
-   "OriginalURL": "http://shemeshkitchen.com/shaved-zucchini-salad-with-goat-cheese-apricots-and-zaatar/#recipe",
-   "Ingredients": [
-      "2 green zucchini, shaved lengthwise",
-      "1 yellow zucchini, shaved lengthwise",
-      "2-3 apricots, sliced",
-      "2 dried apricots, diced small",
-      "a few mint leaves",
-      "a pinch of za'atar",
-      "60 g soft goat cheese ",
-      "15 g Dijon mustard",
-      "20 g whole grain mustard",
-      "50 g lemon juice and zest, about 2 lemons",
-      "90 g olive oil",
-      "salt"
+ "Title": "Rhubarb & Cinnamon Red Lentil Curry (V)",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://www.lowlyfood.com/recipe/savoury-rhubarb-and-cinnamon-red-lentil-curry/",
+ "Ingredients": [
+    "200 g rhubarb, very finely sliced",
+    "2 large onions, finely diced",
+    "4 cloves garlic, finely diced",
+    "2 tsp caster sugar",
+    "2 tsp cinnamon",
+    "2 Tbsp garam masala",
+    "½ tsp cayenne pepper",
+    "750 ml vegetable stock",
+    "300 g split red lentils",
+    "150 g spinach",
+    "30 g fresh coriander, roughly chopped",
+    "1 Tbsp vegetable oil"
    ],
-   "Steps": [
-      "Blitz together the mustard, lemon, 30g of the goat cheese, salt, and olive oil to a smooth creamy dressing.",
-      "Carefully dress the zucchini and the dried apricot, let it marinate 5 minutes.",
-      "Arrange on a plate: add apricot slices, mint leaves. Crumble 30g of goat cheese. Finish with a sprinkle of za'atar."
+ "Steps": [
+    "Heat the tablespoon of vegetable oil in a large saucepan over a medium-high heat. Pour in the chopped onions and garlic. Fry for about 2-3 minutes until the onions are nice and\nsoft.",
+    "Add the 200g of sliced rhubarb into the frying pan along with the 2 tablespoons of garam masala, 2 teaspoons of cinnamon, 2 teaspoons of caster sugar and ½ teaspoon of cayenne pepper. Cook for around a minute, stirring well to combine.",
+    "Tip in the 300g red lentils and 750ml of vegetable stock. Bring the pan to the boil, then turn down to a simmer, cover and cook\nfor around 13 – 15 minutes until the lentils are cooked and the stock has reduced to a thick sauce.",
+    "Remove the pan from the heat and season to taste. Then stir in the 150g spinach and 30g chopped coriander. Stir the spinach and coriander until they have wilted sufficiently.",
+    "Serve the curry immediately."
    ]
 },
  {
-   "Title": "Slow Cooked Lentil Curry With Rhubarb (V)",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://shahzadidevje.com/slow-cooked-lentil-curry-with-rhubarb/",
-   "Ingredients": [
-      "2 cups brown lentils, dry, washed",
-      "1 onion, medium, finely chopped",
-      "3 rhubarb stems, ends trimmed, cut into large chunks",
-      "1 cup tomato passata, thick",
-      "4 cups water",
-      "6 green cardamoms, fresh deseeded pods, crushed ",
-      "1 tsp cinnamon powder",
-      "3 tsp curry powder",
-      "1 tsp salt, sea salt",
-      "1 inch ginger, fresh, peeled, grated",
-      "3 green chillies, finely chopped",
-      "1 cup cilantro,  finely chopped (including stems)",
-      "2 tbsp coconut cream",
-      "2 tbsp hot water"
+ "Title": "Sage & Maple Hasselback Butternut Squash",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://www.instagram.com/p/Cjkm0neLXYM/",
+ "Ingredients": [
+    "1 Hasselback Butternut Squash",
+    "122 g butter",
+    "2 sprigs of sage",
+    "¼ cup maple syrup",
+    "2 Tbsp apple cider vinegar",
+    "1 tsp chilli powder",
+    "½ chopped shallot",
+    "1 tsp yellow mustard powder",
+    "1 tsp curry powder",
+    "2 tsp lemon juice",
+    "100 ml cream",
+    "chopped parsley",
+    "thyme sprigs"
    ],
-   "Steps": [
-      "In a large slow cooker, add all the ingredients, except the cilantro and the coconut cream-water mixture",
-      "Set the slow cooker to high, cover and cook the lentils for 2 hours and 45 minutes, or until the lentils are tender and the rhubarb is soft.",
-      "Dissolve the coconut cream in water and set aside.",
-      "Finish the slow cooked lentil curry by adding cilantro and the coconut cream-water mixture."
+ "Steps": [
+    "Peeled and slit the squash lengthwise, removing the seeds and cleaning the cavity. Rub it with olive oil and season with salt and pepper. Bake it for 15 minutes at 200C.",
+    "To make the maple glaze, melt 3 Tbsp of the butter in a pan, then add the sage. Once it sizzles,  add the maple syrup and the apple cider vinegar and some chilli powder. once this thickened to glaze consistency I removed it from the heat.",
+    "Take the squash out and let it cool a bit. Place two chopsticks along the length of the squash on either side and used a very sharp knife to make the little cuts breadthwise.",
+    "Brush it with the maple glaze, a pour the rest of the glaze freely before putting it back in the oven for about 30 mins at 210C. Remove the squash from the oven every 10 minutes and baste it with the glaze in the pan.",
+    "In a non stick pan, put the rest of the butter, the chopped shallot, yellow mustard powder, curry powder and salt and pepper. Cook this on low heat until the butter foamed and then clarified. Add chopped parsley and thyme sprigs. Then, add the lemon juice and the cream."
    ]
 },
  {
-   "Title": "Spanakopita",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/",
-   "Ingredients": [
-      "450 g frozen chopped spinach, thawed and well-drained",
-      "2 bunches flat-leaf parsley, stems trimmed, finely chopped",
-      "1 large yellow onion, finely chopped",
-      "2 garlic cloves, minced",
-      "2 tbsp extra virgin olive oil",
-      "4 eggs",
-      "300 g quality feta cheese, crumbled",
-      "2 tsp dried dill weed",
-      "Freshly-ground black pepper",
-      "453g (or one package) phyllo dough, properly thawed  ",
-      "1 cup extra virgin olive oil, more if needed"
+ "Title": "Savory Delicata Squash and Cream Cheese Galette",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://www.instagram.com/p/Cj8FsA-DTzF/",
+ "Ingredients": [
+    "1 puff pastry recipe (recipe in MISC section)",
+    "2 small delicata squash, sliced thinly",
+    "one small onion, sliced thinly",
+    "1 Tbsp olive oil",
+    "1 tsp garlic powder",
+    "1 tsp onion powder",
+    "1 tsp paprika",
+    "½ tsp kosher salt",
+    "250 g softened cream cheese",
+    "⅓ cup chopped herbs of choice",
+    "1 chipotle",
+    "½ tsp kosher salt"
    ],
-   "Steps": [
-      "Preheat the oven to 325 degrees F. Before you begin mixing the filling, be sure the spinach is very well drained, and squeeze out any excess liquid by hand.",
-      "In a mixing bowl, add the spinach and the remaining filling ingredients. Stir until all is well-combined.",
-      "Unroll the phyllo sheets and place them between two slightly damp kitchen cloths. Prepare a 9 ½\" x 13\" baking dish. Brush the bottom and sides of the dish with olive oil.",
-      "Now, evenly spread the spinach and feta filling over the phyllo crust. Top with two more sheets, and brush with olive oil. Continue to layer the phyllo sheets, two-at-a-time, brushing with olive oil, until you have used up all the sheets. Brush the very top layer with olive oil, and sprinkle with just a few drops of water. ",
-      "Fold the flaps or excess from the sides, you can crumble them a little. Brush the folded sides well with olive oil. Cut Spanakopita ONLY PART-WAY through into squares, or leave the cutting to later.",
-      "Bake in the 325 degrees F heated-oven for 1 hour, or until the phyllo crust is crisp and golden brown. Remove from the oven. Finish cutting into squares and serve."
+ "Steps": [
+    "Preheat oven to 400 degrees. On a large sheet pan, coat sliced squash and onion with olive oil, garlic powder, onion powder, paprika, and salt. Roast for 20-25 minutes until cooked through.",
+    "While veggies are cooking, mix together cream cheese, chopped herbs, chipotle, and salt. Set aside.",
+    "While veggies are cooling, prep you pastry as you would for a galette. Spread ½ cup cream cheese mixture on the pastry, and then top with cooled roasted veggies, mounding in the center. Fold the pastry towards the middle, and place in the refrigerator for 30 minutes before baking.",
+    "Bake at 400 degrees for 35-40 minutes, until golden brown."
    ]
 },
  {
-   "Title": "Spinach Gnocchi (V)",
-   "Id": 1,
-   "Type": "Main",
-   "OriginalURL": "https://www.instagram.com/p/CsT8jS_qLTt/",
-   "Ingredients": [
-      "1 package precooked gnocchi  ",
-      "250 g fresh spinach",
-      "½ can cannellini beans  ",
-      "½ lemon  ",
-      "2 cloves of garlic  ",
-      "1 red chilli   ",
-      "Lemon zest",
-      "Salt and pepper"
+ "Title": "Shaved Zucchini Salad With Goat Cheese, Apricots, and Za’atar",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "http://shemeshkitchen.com/shaved-zucchini-salad-with-goat-cheese-apricots-and-zaatar/#recipe",
+ "Ingredients": [
+    "2 green zucchini, shaved lengthwise",
+    "1 yellow zucchini, shaved lengthwise",
+    "2-3 apricots, sliced",
+    "2 dried apricots, diced small",
+    "a few mint leaves",
+    "a pinch of za'atar",
+    "60 g soft goat cheese",
+    "15 g Dijon mustard",
+    "20 g whole grain mustard",
+    "50 g lemon juice and zest, about 2 lemons",
+    "90 g olive oil",
+    "salt"
    ],
-   "Steps": [
-      "Blend together the spinach, cannellini beans and their juice, lemon and salt and pepper until smooth.",
-      "Pan fry garlic and chilli and then add the gnocchi and sautée until golden.",
-      "Pour in the sauce and let it simmer for a couple of minutes before topping it with the cheese, lemon zest, chilli and olive oil."
+ "Steps": [
+    "Blitz together the mustard, lemon, 30g of the goat cheese, salt, and olive oil to a smooth creamy dressing.",
+    "Carefully dress the zucchini and the dried apricot, let it marinate 5 minutes.",
+    "Arrange on a plate: add apricot slices, mint leaves. Crumble 30g of goat cheese. Finish with a sprinkle of za'atar."
    ]
 },
  {
-   "Title": "“Ground Beef” Tofu (V + GF)",
-   "Id": 7,
-   "Type": "Misc",
-   "OriginalURL": "https://www.youtube.com/watch?v=q2QsyB6UEBo",
-   "Ingredients": [
-      "1 (14 oz) package extra-firm tofu",
-      "1 tsp paprika",
-      "1 tsp garlic power",
-      "1 tsp onion powder",
-      "1 tsp ground cumin",
-      "2 tbsp nutritional yeast",
-      "2 tbsp soy sauce",
-      "1 tbsp canola oil",
-      "Salt and pepper"
+ "Title": "Slow Cooked Lentil Curry With Rhubarb (V)",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://shahzadidevje.com/slow-cooked-lentil-curry-with-rhubarb/",
+ "Ingredients": [
+    "2 cups brown lentils, dry, washed",
+    "1 onion, medium, finely chopped",
+    "3 rhubarb stems, ends trimmed, cut into large chunks",
+    "1 cup tomato passata, thick",
+    "4 cups water",
+    "6 green cardamoms, fresh deseeded pods, crushed",
+    "1 tsp cinnamon powder",
+    "3 tsp curry powder",
+    "1 tsp salt, sea salt",
+    "1 inch ginger, fresh, peeled, grated",
+    "3 green chillies, finely chopped",
+    "1 cup cilantro, finely chopped (including stems)",
+    "2 Tbsp coconut cream",
+    "2 Tbsp hot water"
    ],
-   "Steps": [
-      "Preheat over to 400 degrees.",
-      "Whisk together all ingredients except tofu in a large bowl until incorporated. Add tofu and mash to desired texture. The smaller you mash the tofu, the faster it’ll get crispy, so keep that in mind.",
-      "Add tofu to a lined or greased baking sheet. Make sure you evenly spread your tofu out on the sheet pan. Put in oven for 20-25 minutes or until golden brown and crispy."
+ "Steps": [
+    "In a large slow cooker, add all the ingredients, except the cilantro and the coconut cream-water mixture",
+    "Set the slow cooker to high, cover and cook the lentils for 2 hours and 45 minutes, or until the lentils are tender and the rhubarb is soft.",
+    "Dissolve the coconut cream in water and set aside.",
+    "Finish the slow cooked lentil curry by adding cilantro and the coconut cream-water mixture."
+   ]
+},
+ {
+ "Title": "Spanakopita",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://www.themediterraneandish.com/spanakopita-recipe-greek-spinach-pie/",
+ "Ingredients": [
+    "450 g frozen chopped spinach, thawed and well-drained",
+    "2 bunches flat-leaf parsley, stems trimmed, finely chopped",
+    "1 large yellow onion, finely chopped",
+    "2 garlic cloves, minced",
+    "2 Tbsp extra virgin olive oil",
+    "4 eggs",
+    "300 g quality feta cheese, crumbled",
+    "2 tsp dried dill weed",
+    "Freshly-ground black pepper",
+    "453 g (or one package) phyllo dough, properly thawed",
+    "1 cup extra virgin olive oil, more if needed"
+   ],
+ "Steps": [
+    "Preheat the oven to 325 degrees F. Before you begin mixing the filling, be sure the spinach is very well drained, and squeeze out any excess liquid by hand.",
+    "In a mixing bowl, add the spinach and the remaining filling ingredients. Stir until all is well-combined.",
+    "Unroll the phyllo sheets and place them between two slightly damp kitchen cloths. Prepare a 9 ½\" x 13\" baking dish. Brush the bottom and sides of the dish with olive oil.",
+    "Now, evenly spread the spinach and feta filling over the phyllo crust. Top with two more sheets, and brush with olive oil. Continue to layer the phyllo sheets, two-at-a-time, brushing with olive oil, until you have used up all the sheets. Brush the very top layer with olive oil, and sprinkle with just a few drops of water.",
+    "Fold the flaps or excess from the sides, you can crumble them a little. Brush the folded sides well with olive oil. Cut Spanakopita ONLY PART-WAY through into squares, or leave the cutting to later.",
+    "Bake in the 325 degrees F heated-oven for 1 hour, or until the phyllo crust is crisp and golden brown. Remove from the oven. Finish cutting into squares and serve."
+   ]
+},
+ {
+ "Title": "Spinach Gnocchi (V)",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://www.instagram.com/p/CsT8jS_qLTt/",
+ "Ingredients": [
+    "1 package precooked gnocchi",
+    "250 g fresh spinach",
+    "½ can cannellini beans",
+    "½ lemon",
+    "2 cloves of garlic",
+    "1 red chili",
+    "Lemon zest",
+    "Salt and pepper"
+   ],
+ "Steps": [
+    "Blend together the spinach, cannellini beans and their juice, lemon and salt and pepper until smooth.",
+    "Pan fry garlic and chilli and then add the gnocchi and sautée until golden.",
+    "Pour in the sauce and let it simmer for a couple of minutes before topping it with the cheese, lemon zest, chilli and olive oil."
+   ]
+},
+ {
+ "Title": "Ukrainian Borsht (V)",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://ifoodreal.com/ukrainian-borscht/#wprm-recipe-container-36382",
+ "Ingredients": [
+    "5 cups vegetable broth",
+    "350 g green or red cabbage, thinly sliced",
+    "1 large onion, thinly sliced",
+    "3 medium carrots, julienned or grated",
+    "2 Tbsp olive oil",
+    "3 large beets, julienned or grated",
+    "4 large potatoes, peeled and cubed",
+    "170 g can tomato paste",
+    "2 tsp salt",
+    "3 bay leaves",
+    "1 Tbsp white vinegar",
+    "Pinch of sugar or maple syrup",
+    "3 large garlic cloves, grated",
+    "Ground black pepper to taste",
+    "15 g dill or parsley finely chopped",
+    "Yogurt sour cream and rye bread, for serving"
+   ],
+ "Steps": [
+    "In a large pot, add broth, bay leaves and bring to a boil. In the meanwhile, wash, peel and cut vegetables. Once broth is boiling, add cabbage, cover and bring to a boil. Then reduce heat to low and cook for 20 minutes.",
+    "In the meanwhile, preheat large skillet on medium heat and swirl 1 Tbsp of oil to coat. Add onion, carrots and saute for 5 minutes, stirring occasionally. Add beets, remaining 1 Tbsp of oil and cook for another 3-4 minutes.",
+    "Transfer sautéed veggies to a pot along with potatoes, tomato paste and salt. Cover, bring to a boil and cook on low heat for 20 minutes.",
+    "Turn off heat. Add vinegar, sugar, garlic and pepper. Stir and let borscht sit for 10 minutes to allow flavours to marry each other. Add dill, stir and adjust any seasonings to taste.",
+    "Serve hot with a dollop of yogurt or sour cream, bread and garlic clove on the side (this is not for everyone)."
+   ]
+},
+ {
+ "Title": "Cilantro Chutney (V)",
+ "Id": 5,
+ "Type": "Condiment",
+ "OriginalURL": "https://www.indianhealthyrecipes.com/cilantro-chutney/",
+ "Ingredients": [
+    "1 cup coriander leaves, tightly packed",
+    "2 tsp green chillies",
+    "1-inch ginger",
+    "1 garlic clove",
+    "1 tsp lemon juice",
+    "½ tsp ground cumin",
+    "1 pinch of salt",
+    "¼ tsp chaat masala",
+    "1 Tbsp water",
+    "1 Tbsp roasted peanuts"
+   ],
+ "Steps": [
+    "In a blender, add the chopped coriander leaves, ginger, garlic and green chillies.",
+    "Add lemon juice, roasted cumin powder or ground cumin, salt, chaat masala and peanuts.",
+    "Add water and blend or grind all the ingredients until smooth. Taste the chutney and add more salt or lemon juice if needed."
+   ]
+},
+ {
+ "Title": "Salted Espresso Chocolate Chip Cookies (V)",
+ "Id": 3,
+ "Type": "Sweets",
+ "OriginalURL": "https://www.purelykaylie.com/vegan-chocolate-chip-cookies/#tasty-recipes-7002-jump-target",
+ "Ingredients": [
+    "112 g butter (vegan or not), slightly softened",
+    "200 g light brown sugar",
+    "2 tsp vanilla extract",
+    "80 ml water",
+    "2 heaping tsp instant espresso powder",
+    "240 g all-purpose flour",
+    "1 tsp baking soda",
+    "½ tsp salt",
+    "1 cup chocolate chips"
+   ],
+ "Steps": [
+    "Boil water, and mix with instant coffee. Let sit. Add butter, brown sugar. Using a handheld mixer or stand mixer, cream the butter and sugar together just until combined. Add the coffee mixture and vanilla to the mix. Cream together once more to combine.",
+    "Add the all-purpose flour, baking soda, and salt to the bowl. Fold the ingredients together until evenly combined. Then, stir in the chocolate chips.",
+    "Cover the cookie dough with cling wrap and place in the refrigerator to chill for at least 30 minutes.",
+    "Preheat the oven to 350 degrees F. Line a large baking sheet with parchment paper.",
+    "Scoop the cookie dough into balls and transfer to the baking sheet. Make about 15 cookies.",
+    "Bake cookies for 9-12 minutes on the middle rack in your oven. You should remove them from the oven while the center still appears underbaked. Once removed them from the oven, let the cookies rest for 5 minutes on the baking sheet."
+   ]
+},
+ {
+ "Title": "Tom Kha (P)",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://hot-thai-kitchen.com/tom-ka-gai/#recipe",
+ "Ingredients": [
+    "500 ml vegetable stock",
+    "350 ml coconut milk",
+    "1 tsp kosher salt",
+    "300-400 g tofu",
+    "1 stalk lemongrass, bottom half only, smashed and chopped",
+    "10 slices galangal",
+    "5 makrut lime leaves, roughly torn into big chunks, center stems removed",
+    "3-4 Thai chilies, bruised or cut into large pieces",
+    "2 Tbsp fish sauce",
+    "1 tsp granulated sugar",
+    "150 g oyster mushrooms",
+    "2 ½ Tbsp lime juice"
+   ],
+ "Steps": [
+    "Bring stock to a boil, then add salt and tofu.",
+    "Add coconut milk, lemongrass, galangal, makrut lime leaves, chilies, about half of the fish sauce, and sugar. Simmer for 5 minutes to infuse.",
+    "Add the mushrooms, bring back to a simmer, and cook for 1-2 minutes or until cooked through.",
+    "Taste and add more fish sauce as needed. Turn off the heat and add 2 tablespoons of the lime juice, then taste and add more as needed. Top with green onions and/or cilantro."
+   ]
+},
+ {
+ "Title": "Pumpkin Loaf",
+ "Id": 0,
+ "Type": "Breakfast",
+ "OriginalURL": "https://www.loveandlemons.com/pumpkin-bread/",
+ "Ingredients": [
+    "¾ cup all-purpose flour, spooned and leveled",
+    "¾ cup whole wheat flour, spooned and leveled",
+    "2 tsp ground cinnamon",
+    "½ tsp ground nutmeg",
+    "½ tsp ground allspice",
+    "2 tsp baking powder",
+    "½ tsp baking soda",
+    "½ tsp sea salt",
+    "1 cup pumpkin puree",
+    "½ cup almond milk",
+    "½ cup cane sugar",
+    "¼ cup vegetable oil, or other neutral oil",
+    "2 large eggs",
+    "1 tsp vanilla extract"
+   ],
+ "Steps": [
+    "Preheat the oven to 350°F and grease an 8x4-inch loaf pan.",
+    "In a medium bowl, whisk together the all-purpose and whole wheat flours, the cinnamon, nutmeg, allspice, baking powder, baking soda, and salt.",
+    "In a large bowl, whisk together the pumpkin puree, almond milk, sugar, oil, eggs, and vanilla until smooth.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined. Do not overmix.",
+    "Spoon the batter into the prepared pan and bake for 45 to 50 minutes, or until the top springs back to the touch and a toothpick inserted comes out clean."
+   ]
+},
+ {
+ "Title": "White Bean & Kale Soup",
+ "Id": 2,
+ "Type": "Sides",
+ "OriginalURL": "https://thefirstmess.com/2018/01/03/creamy-white-bean-soup-vegan-recipe/",
+ "Ingredients": [
+    "1 Tbsp olive oil",
+    "1 medium yellow onion, small dice",
+    "1 medium carrot, small dice",
+    "1 stick celery, small dice",
+    "2 cloves garlic, minced",
+    "chili flakes, to taste",
+    "1 sprig fresh rosemary, minced",
+    "4 cups cooked navy beans, drained and rinsed",
+    "4 cups vegetable stock",
+    "2 Tbsp fresh lemon juice",
+    "3 cups kale, packed and chopped",
+    "¼ cup flat leaf parsley, chopped",
+    "salt & pepper"
+   ],
+ "Steps": [
+    "Heat the oil in a medium-large soup pot over medium heat. Add the onions, carrots, and celery to the pot and stir. Sauté the vegetables until lightly softened and translucent, about 5 minutes.",
+    "To the pot, add the garlic, chili flakes, and rosemary. Stir and cook until garlic is fragrant, about 30 seconds. Add the navy beans to the pot and stir. Add the vegetable stock to the pot and stir once more. Bring the soup to a boil.",
+    "Once boiling, ladle half of the soup into an upright blender. Add the lemon juice to the blender as well. Carefully bring the speed of the blender up to high and blend until this portion of the soup is totally liquified. Pour this liquified portion back into the pot. Season the soup with salt and pepper.",
+    "Add the kale to the pot and bring the soup to a boil. Once the kale is slightly wilted and bright green, season the soup once more with salt and pepper, if you find it necessary. Stir in the chopped parsley as well. Serve the soup hot."
+   ]
+},
+ {
+ "Title": "West African Peanut Stew (V)",
+ "Id": 1,
+ "Type": "Main",
+ "OriginalURL": "https://rainbowplantlife.com/vegan-west-african-peanut-stew/",
+ "Ingredients": [
+    "1 ½ Tbsp neutral oil",
+    "1 large yellow onion, diced",
+    "6 garlic cloves, minced",
+    "2 Tbsp ginger, grated",
+    "1-2 jalapeño peppers, diced",
+    "2 Tbsp tomato paste",
+    "1 tsp ground cumin",
+    "1 tsp coriander",
+    "¼ tsp cinnamon",
+    "¼ tsp cloves",
+    "945 ml low-sodium vegetable broth",
+    "454 g sweet potatoes, peeled and finely diced",
+    "128 g peanut butter",
+    "1 can (425 g) cannellini beans (or navy beans)",
+    "1 can (800 g) crushed tomatoes",
+    "100g chopped organic kale",
+    "1 Tbsp freshly squeezed lemon juice (or lime juice)",
+    "½ cup cilantro, chopped",
+    "salt & pepper"
+   ],
+ "Steps": [
+    "Heat a large, deep nonstick pan or Dutch oven over medium-high heat. Add the coconut oil, and once it's shimmering, add the onions with a pinch of salt. Cook until the onions are just starting to brown, about 5 minutes. Add the garlic, ginger, and jalapeño peppers. Cook for 2 minutes, stirring frequently to prevent burning.",
+    "Add in the tomato paste, cumin, coriander, cinnamon, cloves, 1 ½ teaspoons kosher salt, and a generous amount of freshly cracked black pepper. Stir frequently and vigorously for 2 minutes, incorporating the tomato paste and spices into the onions. Add a few splashes of water to prevent the spices from drying out or burning.",
+    "Pour in the vegetable broth or water, stirring with a spatula to scrape up any browned bits on the bottom of the pan. Add the thyme sprigs, sweet potatoes, peanut butter, white beans, and crushed tomatoes. Stir well to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low or medium-low to maintain a rapid simmer for 20 to 25 minutes, or until the sweet potato is soft and tender, stirring occasionally.",
+    "Add the chopped kale and simmer for 3-5 minutes, or until wilted. If desired, use a fork to smash the sweet potatoes to further thicken the stew. Stir in the lemon or lime juice and cilantro. Season to taste, adding more salt as needed. Serve plain, or on top your favorite grain."
    ]
 }
 ]
