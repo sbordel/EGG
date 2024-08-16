@@ -80,7 +80,22 @@ $(document).ready(function () {
     }
   })
 
+
       /* desktop */
+      $( ".eggimg" ).hover( function() {
+          eggId = $(this).attr("id");
+          $(".egg-zoom").append("<img id='marking' src=''>");
+          eggZoom = $("#marking").attr({ "src": "assets/marking/" + eggCode[eggId - 1] + ".jpg" });
+
+          $(document).mousemove(function (e) {
+            $(".egg-zoom").css({ left: e.pageX, top: e.pageY });
+          });
+  
+        }, function() {
+          $(".egg-zoom").find("#marking").remove();
+        }
+      );
+
       $(".eggimg").click(function () {
         $("#menu-list").text("");
         eggId = $(this).attr("id");
@@ -101,11 +116,6 @@ $(document).ready(function () {
         setTimeout(animEgg, 4500, "done");
   
         this.src = eggArray[eggId].src;
-        eggZoom = $("#marking").attr({ "src": "assets/marking/" + eggCode[eggId - 1] + ".jpg" });
-  
-        $(document).mousemove(function (e) {
-          $(".egg-zoom").css({ left: e.pageX, top: e.pageY });
-        });
   
         function animEgg(p1) {
           eggImg.src = "assets/egg" + eggId + ".png";
