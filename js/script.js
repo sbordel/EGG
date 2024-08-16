@@ -19,6 +19,10 @@ let mbRecipe;
 
 
 $(document).ready(function () {
+  $(window).on('load', function () {
+    $('#loading').hide();
+  }) 
+
   $.getJSON("json/recipes.json", function (data) {
   // $.getJSON("../EGG/json/recipes.json", function (data) {
     dataFromJSON = data;
@@ -29,6 +33,7 @@ $(document).ready(function () {
 
   function run() {
   };
+
 
   $(".dt-span").click(function () {
     if ((this.id) == "max") {
