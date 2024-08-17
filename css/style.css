@@ -41,7 +41,7 @@ body::-webkit-scrollbar {
 }
 
 #loading {
-  display: none;
+  display: block;
   position: absolute;
   display: flex;
   align-items: center;
